@@ -1,0 +1,70 @@
+{
+  "date": "2025-10-03",
+  "event": { "canonical_headline": "Trump calls for cease fire and hostage release in Palestine" },
+  "outlets": [
+    {
+      "outlet_slug": "ap",
+      "outlet_name": "Associated Press",
+      "headline": "Hamas accepts some elements of Trump’s peace plan for Gaza, others require negotiation",
+      "url": "https://apnews.com/live/donald-trump-news-updates-10-3-2025",
+      "bias": { "composite": 0 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "reuters",
+      "outlet_name": "Reuters",
+      "headline": "Hamas agrees to parts of Trump Gaza plan; Trump says Israel must stop bombing",
+      "url": "https://www.reuters.com/world/china/trump-gives-hamas-until-sunday-evening-reach-gaza-deal-2025-10-03/",
+      "bias": { "composite": 0 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nyt",
+      "outlet_name": "The New York Times",
+      "headline": "Trump Says Hamas Is Ready for Peace and Tells Israel to Stop Bombing",
+      "url": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza",
+      "bias": { "composite": -25 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "washpost",
+      "outlet_name": "The Washington Post",
+      "headline": "Hamas accepts Trump’s plan to end the war in Gaza but with conditions",
+      "url": "https://www.washingtonpost.com/world/2025/10/03/hamas-gaza-peace-ceasefire-deal/",
+      "bias": { "composite": -20 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "wsj",
+      "outlet_name": "Wall Street Journal (News)",
+      "headline": "Hamas Agrees to Release Gaza Hostages, but Sets Conditions",
+      "url": "https://www.wsj.com/world/middle-east/trump-hamas-deadline-israel-hostages-bbd88db4",
+      "bias": { "composite": 15 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "cnn",
+      "outlet_name": "CNN",
+      "headline": "Trump calls on Israel to ‘stop the bombing of Gaza’ after Hamas agrees to hostage negotiations",
+      "url": "https://www.cnn.com/2025/10/03/politics/trump-hamas-deadline-gaza-deal",
+      "bias": { "composite": -20 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "foxnews",
+      "outlet_name": "Fox News",
+      "headline": "Hamas agrees to release all Israeli hostages outlined in Trump Gaza peace deal",
+      "url": "https://www.foxnews.com/politics/hamas-agrees-release-israeli-hostages-outlined-trump-gaza-peace-deal",
+      "bias": { "composite": 35 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "guardianus",
+      "outlet_name": "The Guardian US",
+      "headline": "Donald Trump orders Israel to ‘immediately’ stop bombing Gaza as Hamas agrees to free hostages",
+      "url": "https://www.theguardian.com/world/2025/oct/03/hamas-agrees-to-release-all-israeli-hostages",
+      "bias": { "composite": -20 },
+      "match_type": "exact"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2025-10-03",
+  "event": {
+    "canonical_headline": "EXAMPLE: Congress passes X bill"
+  },
+  "outlets": [
+    {
+      "outlet_slug": "ap",
+      "outlet_name": "Associated Press",
+      "headline": "EXAMPLE: House passes X bill; Senate to vote next week",
+      "url": "https://apnews.com/example",
+      "bias": {
+        "composite": 0
+      },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nyt",
+      "outlet_name": "The New York Times",
+      "headline": "EXAMPLE: Contentious vote reflects divisions over X",
+      "url": "https://www.nytimes.com/example",
+      "bias": {
+        "composite": -25
+      },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "foxnews",
+      "outlet_name": "Fox News",
+      "headline": "EXAMPLE: House narrowly approves X bill after Dems break ranks",
+      "url": "https://www.foxnews.com/example",
+      "bias": {
+        "composite": 35
+      },
+      "match_type": "exact"
+    }
+  ]
+}

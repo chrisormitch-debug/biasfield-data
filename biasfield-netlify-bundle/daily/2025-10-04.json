@@ -1,0 +1,126 @@
+{
+  "date": "2025-10-04",
+  "event": { "canonical_headline": "Sean Combs Sentenced" },
+  "outlets": [
+    {
+      "outlet_slug": "ap",
+      "outlet_name": "Associated Press",
+      "headline": "Sean ‘Diddy’ Combs gets 4 years in prison for case involving sex workers, violence and ‘freak-offs’",
+      "url": "https://apnews.com/article/sean-diddy-combs-sentencing-cba3743249028d9a8b88f2ac07d6e323",
+      "bias": { "composite": -3.02 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "reuters",
+      "outlet_name": "Reuters",
+      "headline": "Sean 'Diddy' Combs sentenced to more than 4 years in prison over prostitution conviction",
+      "url": "https://www.reuters.com/legal/government/sean-diddy-combs-be-sentenced-prostitution-related-charges-freak-offs-2025-10-03/",
+      "bias": { "composite": -0.85 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nyt",
+      "outlet_name": "The New York Times News",
+      "headline": "Sean Combs Begged Judge for Mercy Before Sentencing",
+      "url": "https://www.nytimes.com/2025/10/03/arts/music/sean-combs-diddy-sentencing-hearing.html?searchResultPosition=4",
+      "bias": { "composite": -2.20 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "washpost",
+      "outlet_name": "The Washington Post",
+      "headline": "Sean ‘Diddy’ Combs is sentenced to 4 years and 2 months in prison",
+      "url": "https://www.washingtonpost.com/national/2025/10/03/diddy-combs-sentencing/64ef49a4-a05d-11f0-af12-ae28224a8694_story.html",
+      "bias": { "composite": -1.63 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "wsj",
+      "outlet_name": "Wall Street Journal (News)",
+      "headline": "Sean ‘Diddy’ Combs Sentenced to More Than Four Years in Prison",
+      "url": "https://www.wsj.com/us-news/diddy-sean-combs-sentencing-cb02fc3f?mod=Searchresults&pos=1&page=1",
+      "bias": { "composite": 0.33 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "cnn",
+      "outlet_name": "CNN",
+      "headline": "Sean ‘Diddy’ Combs sentenced to more than 4 years in prison for prostitution-related conviction",
+      "url": "https://www.cnn.com/entertainment/live-news/sean-diddy-combs-sentencing-10-03-25",
+      "bias": { "composite": -1.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "foxnews",
+      "outlet_name": "Fox News",
+      "headline": "Diddy sentenced to over 4 years in prison for felony conviction",
+      "url": "https://www.foxnews.com/entertainment/diddy-sentencing-federal-charges",
+      "bias": { "composite": 3.27 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "guardianus",
+      "outlet_name": "The Guardian US",
+      "headline": "Stunned Combs holds head in hands as judge unmoved by pleas for mercy",
+      "url": "https://www.theguardian.com/us-news/2025/oct/03/sean-diddy-combs-court-judge",
+      "bias": { "composite": -3.50 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "usatoday",
+      "outlet_name": "USA Today",
+      "headline": "Sean 'Diddy' Combs' bombshell sex-crimes case culminates in 4-year prison sentence",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/10/03/diddy-sentencing-prison-revealed/86503294007/",
+      "bias": { "composite": -2.00 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "breitbart",
+      "outlet_name": "Breitbart",
+      "headline": "Freak Oof: Diddy Sentenced to 4 Years and 2 Months in Prison in Prostitution Case",
+      "url": "https://www.breitbart.com/entertainment/2025/10/03/freak-oof-diddy-sentenced-to-4-years-and-2-months-in-prison-in-prostitution-case/amp/",
+      "bias": { "composite": 6.0 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "huffingtonpost",
+      "outlet_name": "The Huffington Post",
+      "headline": "Sean 'Diddy' Combs Sentenced To 4 Years In Prison For Prostitution Charge",
+      "url": "https://www.huffpost.com/entry/sean-diddy-combs-sentenced-hearing_n_68d7094be4b0f354d3d1eb26",
+      "bias": { "composite": -4.3 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nbcnews",
+      "outlet_name": "NBC News",
+      "headline": "Sean 'Diddy' Combs sentenced to 50 months behind bars",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/diddy-sentencing-sean-combs-trial-guilty-verdict-prison-live-updates-rcna234879",
+      "bias": { "composite": -1.22 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nypost",
+      "outlet_name": "New York Post",
+      "headline": "Sean ‘Diddy’ Combs sentenced to only 4 years in prison after salacious trial exposed mogul’s reign of terror",
+      "url": "https://nypost.com/2025/10/03/us-news/sean-diddy-combs-sentenced-to-more-than-4-years-prison-after-salacious-trial-exposed-moguls-reign-of-terror/",
+      "bias": { "composite": 2.93 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "washingtonexaminer",
+      "outlet_name": "The Washington Examiner",
+      "headline": "From mogul to inmate: Sean ‘Diddy’ Combs sentenced to four years",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/3835887/mogul-to-inmate-sean-diddy-combs-sentenced-4-years/",
+      "bias": { "composite": 2.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "bbc",
+      "outlet_name": "BBC News",
+      "headline": "Diddy jailed for more than four years in prostitution case",
+      "url": "https://www.bbc.com/news/live/ckge0zgppzet",
+      "bias": { "composite": -0.80 },
+      "match_type": "exact"
+    }
+  ]
+}

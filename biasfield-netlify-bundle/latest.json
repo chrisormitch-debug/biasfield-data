@@ -1,0 +1,142 @@
+{
+  "date": "2025-10-05",
+  "event": { "canonical_headline": "California and Portland Resist Trump National Guard Deployment" },
+  "outlets": [
+    {
+      "outlet_slug": "ap",
+      "outlet_name": "Associated Press",
+      "headline": "California governor says Trump is sending 300 California National Guard members to Oregon",
+      "url": "https://apnews.com/article/national-guard-oregon-california-trump-newsom-3b8e12f8d2d39f195dda73dda31f1681",
+      "bias": { "composite": -3.02 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "reuters",
+      "outlet_name": "Reuters",
+      "headline": "Newsom says he will sue Trump for sending California National Guard to Oregon",
+      "url": "https://www.reuters.com/world/us/newsom-says-he-will-sue-trump-sending-california-national-guard-oregon-2025-10-05/",
+      "bias": { "composite": -0.85 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nyt",
+      "outlet_name": "The New York Times News",
+      "headline": "Trump Sends California National Guard Troops to Portland, Ore.",
+      "url": "https://www.nytimes.com/2025/10/05/us/trump-national-guard-california-oregon-newsom.html",
+      "bias": { "composite": -2.20 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "washpost",
+      "outlet_name": "The Washington Post",
+      "headline": "California Governor says Trump is sending 300 California National Guard members to Oregon",
+      "url": "https://www.washingtonpost.com/national/2025/10/05/national-guard-oregon-california-trump-newsom/0c6403ea-a212-11f0-a79e-ccb5b1f59130_story.html",
+      "bias": { "composite": -1.63 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "wsj",
+      "outlet_name": "Wall Street Journal (News)",
+      "headline": "California Troops Sent to Oregon After Court Bars Oregon Guard Deployment",
+      "url": "https://www.wsj.com/politics/policy/california-troops-sent-to-oregon-after-court-bars-oregon-guard-deployment-5545de00",
+      "bias": { "composite": 0.33 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "cnn",
+      "outlet_name": "CNN",
+      "headline": "California National Guard members arrive in Oregon after judge pauses plan to deploy state troops, Oregon governor says",
+      "url": "https://www.cnn.com/2025/10/05/us/oregon-trump-california-national-guard?cid=external-feeds_iluminar_google",
+      "bias": { "composite": -1.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "foxnews",
+      "outlet_name": "Fox News",
+      "headline": "Newsom sues Trump administration over California National Guard deployment order to Oregon",
+      "url": "https://www.foxnews.com/politics/newsom-sues-trump-administration-over-california-national-guard-deployment-order-oregon",
+      "bias": { "composite": 3.27 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "guardianus",
+      "outlet_name": "The Guardian US",
+      "headline": "Newsom to sue Trump as Pentagon sends California national guard to Oregon",
+      "url": "https://www.theguardian.com/us-news/2025/oct/05/gavin-newsom-california-trump-lawsuit",
+      "bias": { "composite": -3.50 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "usatoday",
+      "outlet_name": "USA Today",
+      "headline": "Newsom says he'll sue Trump for deploying 300 California National Guard troops to Oregon",
+      "url": "https://www.usatoday.com/story/news/politics/2025/10/05/newsom-trump-ca-national-guard-portland/86537563007/",
+      "bias": { "composite": -2.00 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "breitbart",
+      "outlet_name": "Breitbart",
+      "headline": "Newsom to Sue Trump over California Guard Protecting ICE in Oregon",
+      "url": "https://www.breitbart.com/politics/2025/10/05/newsom-to-sue-trump-over-california-guard-protecting-ice-in-oregon/",
+      "bias": { "composite": 6.0 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "huffingtonpost",
+      "outlet_name": "The Huffington Post",
+      "headline": "Gavin Newsom Says Trump Is Sending 300 California National Guard Members To Oregon",
+      "url": "https://www.huffpost.com/entry/ap-us-national-guard-oregon-california-newsom-trump_n_68e2b786e4b08634f761c1ad?d_id=10680790&ncid_tag=tweetlnkushpmg00000067&utm_medium=Social&utm_source=Twitter&utm_campaign=us_main",
+      "bias": { "composite": -4.3 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nbcnews",
+      "outlet_name": "NBC News",
+      "headline": "Gov. Gavin Newsom says Trump administration has deployed California National Guard troops to Oregon",
+      "url": "https://www.nbcnews.com/politics/trump-administration/california-newsom-trump-administration-national-guard-deployment-rcna235726",
+      "bias": { "composite": -1.22 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nypost",
+      "outlet_name": "New York Post",
+      "headline": "Trump defies federal court, sends 300 California National Guard troops to Portland, Oregon: ‘On their way there now’",
+      "url": "https://nypost.com/2025/10/05/us-news/trump-defies-federal-court-sends-300-california-national-guard-troops-to-portland-oregon/",
+      "bias": { "composite": 2.93 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "washingtonexaminer",
+      "outlet_name": "The Washington Examiner",
+      "headline": "Newsom to sue Trump over California National Guard deployment to Oregon",
+      "url": "https://www.washingtonexaminer.com/news/crime/3837960/newsom-trump-california-national-guard-oregon/",
+      "bias": { "composite": 2.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "bbc",
+      "outlet_name": "BBC News",
+      "headline": "Diddy jailed for more than four years in prostitution case",
+      "url": "https://www.bbc.com/news/live/ckge0zgppzet",
+      "bias": { "composite": -0.80 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "abcnews",
+      "outlet_name": "ABC News",
+      "headline": "Newsom says he'll sue to keep Trump from sending California National Guard to Portland",
+      "url": "https://abcnews.go.com/US/federal-judge-temporarily-blocks-trumps-attempt-deploy-oregon/story?id=126223483",
+      "bias": { "composite": -1.42 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "newsmax",
+      "outlet_name": "Newsmax",
+      "headline": "Newsom Vows to Sue for Trump Sending Calif. Guard to Ore.",
+      "url": "https://www.newsmax.com/us/national-guard-lawsuit-california/2025/10/05/id/1229115/",
+      "bias": { "composite": 3.05 },
+      "match_type": "exact"
+    }
+  ]
+}

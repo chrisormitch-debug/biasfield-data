@@ -1,0 +1,7 @@
+/*.json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET
+
+/daily/*.json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET
