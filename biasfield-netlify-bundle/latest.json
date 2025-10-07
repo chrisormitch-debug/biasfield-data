@@ -115,14 +115,6 @@
       "match_type": "exact"
     },
     {
-      "outlet_slug": "bbc",
-      "outlet_name": "BBC News",
-      "headline": "Diddy jailed for more than four years in prostitution case",
-      "url": "https://www.bbc.com/news/live/ckge0zgppzet",
-      "bias": { "composite": -0.80 },
-      "match_type": "exact"
-    },
-    {
       "outlet_slug": "abcnews",
       "outlet_name": "ABC News",
       "headline": "Newsom says he'll sue to keep Trump from sending California National Guard to Portland",
