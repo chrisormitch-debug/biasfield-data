@@ -105,7 +105,7 @@
       "url": "https://www.politico.com/news/2025/10/13/hamas-frees-hostages-and-israel-releases-prisoners-00606173",
       "bias": { "composite": -1.20 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "reuters",
       "outlet_name": "Reuters",
@@ -121,7 +121,7 @@
       "url": "https://www.bbc.com/news/live/cx2r2z0gyp7t",
       "bias": { "composite": -0.80 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "newsweek",
       "outlet_name": "Newsweek",
@@ -129,7 +129,7 @@
       "url": "https://www.newsweek.com/israel-hostages-list-gaza-10868164",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "christiansciencemonitor",
       "outlet_name": "Christian Science Monitor",
@@ -137,7 +137,7 @@
       "url": "https://www.bbc.com/news/live/cx2r2z0gyp7t",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "wsj",
       "outlet_name": "Wall Street Journal (News)",
@@ -177,7 +177,7 @@
       "url": "https://www.newsmax.com/world/globaltalk/hamas-hostages-terrorists/2025/10/12/id/1230049/",
       "bias": { "composite": 3.05 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "oneamericanews",
       "outlet_name": "One America News",
@@ -185,7 +185,7 @@
       "url": "https://www.oann.com/newsroom/all-living-hostages-cross-into-israel-after-738-days/",
       "bias": { "composite": 3.13 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "foxnews",
       "outlet_name": "Fox News",
