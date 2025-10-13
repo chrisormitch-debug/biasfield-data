@@ -1,6 +1,6 @@
-{
+  {
   "date": "2025-13-05",
-  "event": { "canonical_headline": "Israely hostages and Palestinian prisoners released in Gaza" },
+  "event": { "canonical_headline": "Israeli hostages and Palestinian prisoners released in Gaza" },
   "outlets": [
     {
       "outlet_slug": "huffingtonpost",
@@ -117,7 +117,7 @@
     {
       "outlet_slug": "bbcnews",
       "outlet_name": "BBC News",
-      "headline": "''We never gave up' - Israeli families welcome hostages home as hundreds of Palestinian detainees freed",
+      "headline": "'We never gave up' - Israeli families welcome hostages home as hundreds of Palestinian detainees freed",
       "url": "https://www.bbc.com/news/live/cx2r2z0gyp7t",
       "bias": { "composite": -0.80 },
       "match_type": "exact"
@@ -125,7 +125,7 @@
     {
       "outlet_slug": "newsweek",
       "outlet_name": "Newsweek",
-      "headline": "Israel Hostages Released: Full List of People Freed From Gaza  ",
+      "headline": "Israel Hostages Released: Full List of People Freed From Gaza",
       "url": "https://www.newsweek.com/israel-hostages-list-gaza-10868164",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
@@ -161,11 +161,11 @@
       "url": "https://www.nationalreview.com/news/all-living-israeli-hostages-return-home-ending-two-years-of-torment/",
       "bias": { "composite": 2.50 },
       "match_type": "exact"
-    }, 
+    },
     {
       "outlet_slug": "nypost",
       "outlet_name": "New York Post",
-      "headline": "Last living hostages all released after 738 days in Hamas hell â€” as peace deal takes hold",
+      "headline": "Last living hostages all released after 738 days in Hamas hell — as peace deal takes hold",
       "url": "https://nypost.com/2025/10/13/world-news/last-living-israeli-hostages-freed-by-hamas-after-737-days-of-hell-as-peace-deal-takes-hold/",
       "bias": { "composite": 2.93 },
       "match_type": "exact"
@@ -181,7 +181,7 @@
     {
       "outlet_slug": "oneamericanews",
       "outlet_name": "One America News",
-      "headline": "All living hostages cross into Israel after 738 days'",
+      "headline": "All living hostages cross into Israel after 738 days",
       "url": "https://www.oann.com/newsroom/all-living-hostages-cross-into-israel-after-738-days/",
       "bias": { "composite": 3.13 },
       "match_type": "exact"
@@ -194,7 +194,7 @@
       "bias": { "composite": 3.27 },
       "match_type": "exact"
     },
-        {
+    {
       "outlet_slug": "theamericanconservative",
       "outlet_name": "The American Conservative",
       "headline": "Israeli Hostages, Palestinian Prisoners Released Under Ceasefire Deal",
@@ -209,6 +209,6 @@
       "url": "https://www.breitbart.com/middle-east/2025/10/12/watch-live-hamas-to-release-israeli-hostages-from-gaza/",
       "bias": { "composite": 6.0 },
       "match_type": "exact"
-    },
+    }
   ]
 }
