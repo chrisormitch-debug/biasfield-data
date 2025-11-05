@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-05",
+  "date": "2025-11-04",
   "event": { "canonical_headline": "Zohran Mamdani wins New York City mayoral race" },
   "outlets": [
     {
@@ -70,7 +70,7 @@
       "outlet_slug": "cbsnews",
       "outlet_name": "CBS News",
       "headline": "Zohran Mamdani claims victory in NYC mayor's race, promises 'relentless improvement'",
-      "url": "https://www.cbsnews.com/live-updates/israel-hamas-peace-deal-live-updates-hostages-trump-knesset-egypt/",
+      "url": "https://www.cbsnews.com/newyork/live-updates/nyc-election-results-2025/",
       "bias": { "composite": -1.50 },
       "match_type": "exact"
     },
@@ -105,7 +105,7 @@
       "url": "https://www.politico.com/news/2025/11/04/zohran-mamdani-wins-mayor-new-york-city-00634476",
       "bias": { "composite": -1.20 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "reuters",
       "outlet_name": "Reuters",
@@ -121,7 +121,7 @@
       "url": "https://www.bbc.com/news/articles/cly4kr8gzr2o",
       "bias": { "composite": -0.80 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "forbes",
       "outlet_name": "Forbes",
@@ -129,7 +129,7 @@
       "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/11/04/nyc-mayoral-race-live-updates-mamdani-wins-calls-it-a-mandate-for-change/",
       "bias": { "composite": -0.50 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "newsweek",
       "outlet_name": "Newsweek",
@@ -137,7 +137,7 @@
       "url": "https://www.newsweek.com/new-york-city-mayoral-election-results-winner-mamdani-10982361",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "christiansciencemonitor",
       "outlet_name": "Christian Science Monitor",
@@ -145,7 +145,7 @@
       "url": "https://www.csmonitor.com/USA/Politics/2025/1105/election-results-virginia-new-jersey-california",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "wsj",
       "outlet_name": "Wall Street Journal (News)",
@@ -169,7 +169,7 @@
       "url": "https://www.nationalreview.com/news/socialist-zohran-mamdani-elected-new-york-city-mayor/",
       "bias": { "composite": 2.50 },
       "match_type": "exact"
-    }, 
+    },
     {
       "outlet_slug": "nypost",
       "outlet_name": "New York Post",
@@ -185,7 +185,7 @@
       "url": "https://www.newsmax.com/newsfront/nyc-mayors-race-zohran-mamdani-andrew-cuomo/2025/11/04/id/1233246/",
       "bias": { "composite": 3.05 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "oneamericanews",
       "outlet_name": "One America News",
@@ -193,7 +193,7 @@
       "url": "https://www.oann.com/newsroom/van-jones-mamdani-had-character-shift-during-victory-speech/",
       "bias": { "composite": 3.13 },
       "match_type": "exact"
-    }
+    },
     {
       "outlet_slug": "foxnews",
       "outlet_name": "Fox News",
@@ -202,7 +202,7 @@
       "bias": { "composite": 3.27 },
       "match_type": "exact"
     },
-        {
+    {
       "outlet_slug": "theamericanconservative",
       "outlet_name": "The American Conservative",
       "headline": "Zohran Mamdani Elected Mayor of New York City",
@@ -217,6 +217,6 @@
       "url": "https://www.breitbart.com/politics/2025/11/04/muslim-socialist-zohran-mamdani-wins-new-york-city-mayor-election/amp/",
       "bias": { "composite": 6.0 },
       "match_type": "exact"
-    },
+    }
   ]
 }
