@@ -1,75 +1,75 @@
-  {
-  "date": "2025-13-05",
-  "event": { "canonical_headline": "Israeli hostages and Palestinian prisoners released in Gaza" },
+{
+  "date": "2025-10-05",
+  "event": { "canonical_headline": "Zohran Mamdani wins New York City mayoral race" },
   "outlets": [
     {
       "outlet_slug": "huffingtonpost",
       "outlet_name": "The Huffington Post",
-      "headline": "MOMENTOUS: ALL LIVING ISRAELI HOSTAGES FREED. ISRAEL RELEASES 1,900+ PALESTINIAN PRISONERS... TRUMP HERO'S WELCOME IN ISRAEL'S PARLIAMENT...",
-      "url": "https://www.huffpost.com/entry/israel-mideast-wars-gaza-welcome-hostages_n_68ec73f8e4b04c87b806c1d0",
+      "headline": "Zohran Mamdani Makes History As New York City's Next Mayor",
+      "url": "https://www.huffpost.com/entry/zohran-mamdani-wins-new-york-mayor-race_n_690266a9e4b0e763a61c76bc?origin=home-politics-feed-unit",
       "bias": { "composite": -4.3 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "msnbc",
       "outlet_name": "MSNBC",
-      "headline": "Hamas releases all 20 living hostages held in Gaza for more than 2 years",
-      "url": "https://www.theguardian.com/world/2025/oct/13/israeli-hostage-release-hamas-gaza-last-living",
+      "headline": "Mamdani wins historic NYC mayor's race...",
+      "url": "https://www.msnbc.com/top-stories/latest/mamdani-wins-nyc-mayor-race-election-results-rcna240589",
       "bias": { "composite": -3.71 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "guardianus",
       "outlet_name": "The Guardian US",
-      "headline": "Hamas releases 20 remaining living Israeli hostages after two years in Gaza",
-      "url": "https://www.theguardian.com/world/2025/oct/13/israeli-hostage-release-hamas-gaza-last-living",
+      "headline": "Zohran Mamdani elected mayor of New York on winning night for Democrats",
+      "url": "https://www.theguardian.com/us-news/2025/nov/04/zohran-mamdani-mayor-new-york-city",
       "bias": { "composite": -3.50 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "ap",
       "outlet_name": "Associated Press",
-      "headline": "LIVING HOSTAGES FREED AS PRISONER EXCHANGE UNDERWAY",
-      "url": "https://apnews.com/article/gaza-israel-hamas-hostages-ceasefire-10-13-2025-9e4921406e846189c90144609c1a9530",
+      "headline": "...Zohran Mamdani, a self-described democratic socialist, elected New York City mayor",
+      "url": "https://apnews.com/article/new-york-city-mayor-election-mamdani-cuomo-sliwa-070d5b6e5544cfe6809ade6fa8b8b74a",
       "bias": { "composite": -3.02 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "bloomberg",
       "outlet_name": "Bloomberg",
-      "headline": "Gaza Hostages Released as Questions Remain in Ceasefire Process",
-      "url": "https://www.bloomberg.com/news/live-blog/2025-10-13/trump-visits-middle-east?srnd=homepage-americas",
+      "headline": "Mamdani Makes History With Decisive Win in NYC Mayor's Race",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-05/mamdani-wins-race-to-become-next-mayor-of-nyc-ap-says",
       "bias": { "composite": -2.40 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "nyt",
       "outlet_name": "The New York Times News",
-      "headline": "Scenes of Joy and Anticipation as Hostages and Prisoners are Exchanged",
-      "url": "https://www.nytimes.com/2025/10/13/world/europe/israel-hostages-gaza-prisoner-released-photos.html",
+      "headline": "Zohran Mamdani Is Elected Mayor of New York City",
+      "url": "https://www.nytimes.com/2025/11/04/nyregion/nyc-mayor-mamdani-elected.html",
       "bias": { "composite": -2.20 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "usatoday",
       "outlet_name": "USA Today",
-      "headline": "Israel says all hostages from the Oct. 7, 2023, attacks freed by Hamas: Live updates",
-      "url": "https://www.usatoday.com/story/news/politics/2025/10/12/donald-trump-israel-knesset-speech-hostage-prisoner-release/86660929007/",
+      "headline": "In generational shift, Zohran Mamdani wins NYC mayor's race",
+      "url": "https://www.usatoday.com/story/news/politics/2025/11/04/zohran-mamdani-wins-nyc-mayor-election/86311529007/",
       "bias": { "composite": -2.00 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "washpost",
       "outlet_name": "The Washington Post",
-      "headline": "Hamas releases all living Israeli hostages in ceasefire deal",
-      "url": "https://www.washingtonpost.com/video/world/hamas-releases-all-living-israeli-hostages-in-ceasefire-deal/2025/10/13/0a40e1cd-c59f-4e90-9cf9-4aaa9d3b6091_video.html",
+      "headline": "Mamdani wins NYC mayor race, California passes Prop 50, Democrats take governor races in N.J., Va.",
+      "url": "https://www.washingtonpost.com/politics/2025/11/04/election-2025-live-updates/",
       "bias": { "composite": -1.63 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "cbsnews",
       "outlet_name": "CBS News",
-      "headline": "Trump urges Israel and Palestinians to embrace peace after Hamas frees all living hostages",
+      "headline": "Zohran Mamdani claims victory in NYC mayor's race, promises "relentless improvement",
       "url": "https://www.cbsnews.com/live-updates/israel-hamas-peace-deal-live-updates-hostages-trump-knesset-egypt/",
       "bias": { "composite": -1.50 },
       "match_type": "exact"
@@ -77,138 +77,146 @@
     {
       "outlet_slug": "abcnews",
       "outlet_name": "ABC News",
-      "headline": "Elation for families of living hostages, while those of deceased decry delay",
-      "url": "https://abcnews.go.com/International/families-react-amid-hostage-exchange-underway/story?id=126466303",
+      "headline": "Mamdani makes history with improbable, meteoric rise to become New York's next mayor...",
+      "url": "https://abcnews.go.com/Politics/mamdani-makes-history-improbable-meteoric-rise-become-new/story?id=127196199",
       "bias": { "composite": -1.42 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "cnn",
       "outlet_name": "CNN",
-      "headline": "BREAKING: All living hostages freed from Gaza after final group of 13 crosses into Israel",
-      "url": "https://www.cnn.com/world/live-news/israel-hamas-gaza-hostages-ceasefire-10-13-25#cmgovs5ud000l3b6nlsxwtxuw",
+      "headline": "Zohran Mamdani wins New York City mayoral election",
+      "url": "https://www.cnn.com/2025/11/04/politics/nyc-mayor-zohran-mamdani-wins",
       "bias": { "composite": -1.30 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "nbcnews",
       "outlet_name": "NBC News",
-      "headline": "All living Israeli hostages freed ahead of peace summit",
-      "url": "https://www.nbcnews.com/world/middle-east/live-blog/israel-hamas-gaza-ceasfire-hostages-live-updates-rcna237201",
+      "headline": "Zohran Mamdani wins the New York mayoral race",
+      "url": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
       "bias": { "composite": -1.22 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "politico",
       "outlet_name": "Politico",
-      "headline": "Hamas frees hostages and Israel releases prisoners",
-      "url": "https://www.politico.com/news/2025/10/13/hamas-frees-hostages-and-israel-releases-prisoners-00606173",
+      "headline": "Zohran Mamdani wins NYC mayoral race",
+      "url": "https://www.politico.com/news/2025/11/04/zohran-mamdani-wins-mayor-new-york-city-00634476",
       "bias": { "composite": -1.20 },
       "match_type": "exact"
-    },
+    }
     {
       "outlet_slug": "reuters",
       "outlet_name": "Reuters",
-      "headline": "Trump says Holy Land at peace as last Israeli hostages swapped for Palestinian detainees",
-      "url": "https://www.reuters.com/world/middle-east/israelis-honour-trump-hostages-return-home-two-years-after-their-capture-2025-10-12/",
+      "headline": "Mamdani addressed his supporters the mayor-elect of New York City, after his historic victory",
+      "url": "https://www.reutersconnect.com/item/mamdani-addressed-his-supporters-the-mayor-elect-of-new-york-city-after-his-historic-victory/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwVkJOMENN",
       "bias": { "composite": -0.85 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "bbcnews",
       "outlet_name": "BBC News",
-      "headline": "'We never gave up' - Israeli families welcome hostages home as hundreds of Palestinian detainees freed",
-      "url": "https://www.bbc.com/news/live/cx2r2z0gyp7t",
+      "headline": "Mamdani seals remarkable victory - but real challenges await",
+      "url": "https://www.bbc.com/news/articles/cly4kr8gzr2o",
       "bias": { "composite": -0.80 },
       "match_type": "exact"
-    },
+    }
+    {
+      "outlet_slug": "forbes",
+      "outlet_name": "Forbes",
+      "headline": "NYC Mayoral Race...: Mamdani Wins, Calls It A “Mandate For Change”",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/11/04/nyc-mayoral-race-live-updates-mamdani-wins-calls-it-a-mandate-for-change/",
+      "bias": { "composite": -0.50 },
+      "match_type": "exact"
+    }
     {
       "outlet_slug": "newsweek",
       "outlet_name": "Newsweek",
-      "headline": "Israel Hostages Released: Full List of People Freed From Gaza",
-      "url": "https://www.newsweek.com/israel-hostages-list-gaza-10868164",
+      "headline": "Mamdani Defeats Cuomo and Sliwa to Win New York City Mayoral Election",
+      "url": "https://www.newsweek.com/new-york-city-mayoral-election-results-winner-mamdani-10982361",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
-    },
+    }
     {
       "outlet_slug": "christiansciencemonitor",
       "outlet_name": "Christian Science Monitor",
-      "headline": "Hamas returns living hostages; Israel begins releasing Palestinian prisoners",
-      "url": "https://www.bbc.com/news/live/cx2r2z0gyp7t",
+      "headline": "Democrats ride economic anxiety, anti-Trump groundswell to big wins",
+      "url": "https://www.csmonitor.com/USA/Politics/2025/1105/election-results-virginia-new-jersey-california",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
-    },
+    }
     {
       "outlet_slug": "wsj",
       "outlet_name": "Wall Street Journal (News)",
-      "headline": "Israeli Hostages Released From Gaza",
-      "url": "https://www.wsj.com/video/israeli-hostages-released-from-gaza/4A645508-F94D-4391-92AD-C7FA8FAD555E?gaa_at=eafs&gaa_n=ASWzDAh2GkhJ0jJIScT04UzQJP1_0W8ekzc-vbZay5gKj0WOPbweeTC55fiaPZj22mQ%3D&gaa_ts=68ed2c0c&gaa_sig=Q7tjO55K3OYjLiyAs3xiETQaoAleg4uO4tZ-k3GwOKtENtSi6OHT26wBDgBh2e1Kyq3ZJXqkY7yZdyNEnYyVtg%3D%3D",
+      "headline": "Election Day 2025: Zohran Mamdani Takes NYC as Democrats Win Key Races",
+      "url": "https://www.wsj.com/livecoverage/election-day-2025?gaa_at=eafs&gaa_n=AWEtsqcY2QTlO7QLtwC0aY1znqIwmiMpBhH8sXXPMIet5MhBT8ZFiDuaUOwLY6ZYBhY%3D&gaa_ts=690bd63f&gaa_sig=MmadgEK2azgSpCPRSSgp3KT_sqzl-94aIawIQnomo7ifA-zxxrbsmfKJe8TSdHsBqH9y-QBc9WEFuOYq7jYeBw%3D%3D",
       "bias": { "composite": 0.33 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "washingtonexaminer",
       "outlet_name": "The Washington Examiner",
-      "headline": "Israel releases 1,900 Palestinian prisoners as part of peace plan",
-      "url": "https://www.washingtonexaminer.com/news/world/3847963/israel-releases-1900-palestinian-prisoners-hamas-ceasefire-peace-plan/",
+      "headline": "Socialist Zohran Mamdani wins New York City mayoral race against Cuomo and Sliwa",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/state/3871226/zohran-mamdani-cuomo-sliwa-new-york-city-mayor-race/",
       "bias": { "composite": 2.30 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "nationalreview",
       "outlet_name": "The National Review",
-      "headline": "All Living Israeli Hostages Return Home, Ending Two Years of Torment",
-      "url": "https://www.nationalreview.com/news/all-living-israeli-hostages-return-home-ending-two-years-of-torment/",
+      "headline": "Socialist Zohran Mamdani Elected New York City Mayor",
+      "url": "https://www.nationalreview.com/news/socialist-zohran-mamdani-elected-new-york-city-mayor/",
       "bias": { "composite": 2.50 },
       "match_type": "exact"
-    },
+    }, 
     {
       "outlet_slug": "nypost",
       "outlet_name": "New York Post",
-      "headline": "Last living hostages all released after 738 days in Hamas hell — as peace deal takes hold",
-      "url": "https://nypost.com/2025/10/13/world-news/last-living-israeli-hostages-freed-by-hamas-after-737-days-of-hell-as-peace-deal-takes-hold/",
+      "headline": "Zohran Mamdani wins 2025 NYC mayoral election — wastes no time in declaring war on Trump in victory speech",
+      "url": "https://nypost.com/2025/11/04/us-news/zohran-mamdani-wins-2025-nyc-mayoral-election/",
       "bias": { "composite": 2.93 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "newsmax",
       "outlet_name": "Newsmax",
-      "headline": "20 Israeli Hostages Reunite With Families as Peace, Trump Land",
-      "url": "https://www.newsmax.com/world/globaltalk/hamas-hostages-terrorists/2025/10/12/id/1230049/",
+      "headline": "Socialist Dem Mamdani Becomes NYC's First Muslim Mayor. Mamdani Victory Signals Earthshaking Shift in NYC Politics",
+      "url": "https://www.newsmax.com/newsfront/nyc-mayors-race-zohran-mamdani-andrew-cuomo/2025/11/04/id/1233246/",
       "bias": { "composite": 3.05 },
       "match_type": "exact"
-    },
+    }
     {
       "outlet_slug": "oneamericanews",
       "outlet_name": "One America News",
-      "headline": "All living hostages cross into Israel after 738 days",
-      "url": "https://www.oann.com/newsroom/all-living-hostages-cross-into-israel-after-738-days/",
+      "headline": "...Mamdani had ‘character shift’ during victory speech",
+      "url": "https://www.oann.com/newsroom/van-jones-mamdani-had-character-shift-during-victory-speech/",
       "bias": { "composite": 3.13 },
       "match_type": "exact"
-    },
+    }
     {
       "outlet_slug": "foxnews",
       "outlet_name": "Fox News",
-      "headline": "All 20 living Israeli hostages freed by Hamas",
-      "url": "https://www.foxnews.com/video/6382677761112",
+      "headline": "Socialist shockwave: Zohran Mamdani stuns NYC as voters hand power to Democrats’ far-left flank",
+      "url": "https://www.foxnews.com/politics/socialist-shockwave-zohran-mamdani-stuns-nyc-voters-hand-power-democrats-far-left-flank",
       "bias": { "composite": 3.27 },
       "match_type": "exact"
     },
-    {
+        {
       "outlet_slug": "theamericanconservative",
       "outlet_name": "The American Conservative",
-      "headline": "Israeli Hostages, Palestinian Prisoners Released Under Ceasefire Deal",
-      "url": "https://www.theamericanconservative.com/israeli-hostages-palestinian-prisoners-released-under-ceasefire-deal/",
+      "headline": "Zohran Mamdani Elected Mayor of New York City",
+      "url": "https://www.theamericanconservative.com/zohran-mamdani-elected-mayor-of-new-york-city/",
       "bias": { "composite": 3.27 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "breitbart",
       "outlet_name": "Breitbart",
-      "headline": "**Live Wire Updates**: Hamas Releases All Israeli Hostages From Gaza",
-      "url": "https://www.breitbart.com/middle-east/2025/10/12/watch-live-hamas-to-release-israeli-hostages-from-gaza/",
+      "headline": "Muslim Socialist Zohran Mamdani Wins New York City Mayor Election",
+      "url": "https://www.breitbart.com/politics/2025/11/04/muslim-socialist-zohran-mamdani-wins-new-york-city-mayor-election/amp/",
       "bias": { "composite": 6.0 },
       "match_type": "exact"
-    }
+    },
   ]
 }
