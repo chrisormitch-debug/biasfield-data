@@ -69,7 +69,7 @@
     {
       "outlet_slug": "cbsnews",
       "outlet_name": "CBS News",
-      "headline": "Zohran Mamdani claims victory in NYC mayor's race, promises "relentless improvement",
+      "headline": "Zohran Mamdani claims victory in NYC mayor's race, promises 'relentless improvement'",
       "url": "https://www.cbsnews.com/live-updates/israel-hamas-peace-deal-live-updates-hostages-trump-knesset-egypt/",
       "bias": { "composite": -1.50 },
       "match_type": "exact"
