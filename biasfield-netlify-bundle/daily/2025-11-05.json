@@ -1,223 +1,1113 @@
-{
-  "date": "2025-11-05",
-  "event": { "canonical_headline": "Zohran Mamdani wins New York City mayoral race" },
-  "outlets": [
-    {
-      "outlet_slug": "huffingtonpost",
-      "outlet_name": "The Huffington Post",
-      "headline": "Zohran Mamdani Makes History As New York City's Next Mayor",
-      "url": "https://www.huffpost.com/entry/zohran-mamdani-wins-new-york-mayor-race_n_690266a9e4b0e763a61c76bc?origin=home-politics-feed-unit",
-      "bias": { "composite": -4.3 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "msnbc",
-      "outlet_name": "MSNBC",
-      "headline": "Mamdani wins historic NYC mayor's race...",
-      "url": "https://www.msnbc.com/top-stories/latest/mamdani-wins-nyc-mayor-race-election-results-rcna240589",
-      "bias": { "composite": -3.71 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "guardianus",
-      "outlet_name": "The Guardian US",
-      "headline": "Zohran Mamdani elected mayor of New York on winning night for Democrats",
-      "url": "https://www.theguardian.com/us-news/2025/nov/04/zohran-mamdani-mayor-new-york-city",
-      "bias": { "composite": -3.50 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "ap",
-      "outlet_name": "Associated Press",
-      "headline": "...Zohran Mamdani, a self-described democratic socialist, elected New York City mayor",
-      "url": "https://apnews.com/article/new-york-city-mayor-election-mamdani-cuomo-sliwa-070d5b6e5544cfe6809ade6fa8b8b74a",
-      "bias": { "composite": -3.02 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "bloomberg",
-      "outlet_name": "Bloomberg",
-      "headline": "Mamdani Makes History With Decisive Win in NYC Mayor's Race",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-05/mamdani-wins-race-to-become-next-mayor-of-nyc-ap-says",
-      "bias": { "composite": -2.40 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "nyt",
-      "outlet_name": "The New York Times News",
-      "headline": "Zohran Mamdani Is Elected Mayor of New York City",
-      "url": "https://www.nytimes.com/2025/11/04/nyregion/nyc-mayor-mamdani-elected.html",
-      "bias": { "composite": -2.20 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "usatoday",
-      "outlet_name": "USA Today",
-      "headline": "In generational shift, Zohran Mamdani wins NYC mayor's race",
-      "url": "https://www.usatoday.com/story/news/politics/2025/11/04/zohran-mamdani-wins-nyc-mayor-election/86311529007/",
-      "bias": { "composite": -2.00 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "washpost",
-      "outlet_name": "The Washington Post",
-      "headline": "Mamdani wins NYC mayor race, California passes Prop 50, Democrats take governor races in N.J., Va.",
-      "url": "https://www.washingtonpost.com/politics/2025/11/04/election-2025-live-updates/",
-      "bias": { "composite": -1.63 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "cbsnews",
-      "outlet_name": "CBS News",
-      "headline": "Zohran Mamdani claims victory in NYC mayor's race, promises \\\"relentless improvement\\\"",
+/* BiasFieldCarousel_1.tsx — v1.6.4
+   Updates:
+   • Viewport no longer clips hover-growth; .bf-v1__track centers cards vertically.
+   • Hover polish: z-index lift, shadow bloom, and brightness lift.
+   • Keeps: header color control, true-red spectral hover, 12-line clamp, flick/momentum, centered card, etc.
+*/
+import * as React from "react"
+import { addPropertyControls, ControlType } from "framer"
 
-      "url": "https://www.cbsnews.com/newyork/live-updates/nyc-election-results-2025/",
-      "bias": { "composite": -1.50 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "abcnews",
-      "outlet_name": "ABC News",
-      "headline": "Mamdani makes history with improbable, meteoric rise to become New York's next mayor...",
-      "url": "https://abcnews.go.com/Politics/mamdani-makes-history-improbable-meteoric-rise-become-new/story?id=127196199",
-      "bias": { "composite": -1.42 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "cnn",
-      "outlet_name": "CNN",
-      "headline": "Zohran Mamdani wins New York City mayoral election",
-      "url": "https://www.cnn.com/2025/11/04/politics/nyc-mayor-zohran-mamdani-wins",
-      "bias": { "composite": -1.30 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "nbcnews",
-      "outlet_name": "NBC News",
-      "headline": "Zohran Mamdani wins the New York mayoral race",
-      "url": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
-      "bias": { "composite": -1.22 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "politico",
-      "outlet_name": "Politico",
-      "headline": "Zohran Mamdani wins NYC mayoral race",
-      "url": "https://www.politico.com/news/2025/11/04/zohran-mamdani-wins-mayor-new-york-city-00634476",
-      "bias": { "composite": -1.20 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "reuters",
-      "outlet_name": "Reuters",
-      "headline": "Mamdani addressed his supporters the mayor-elect of New York City, after his historic victory",
-      "url": "https://www.reutersconnect.com/item/mamdani-addressed-his-supporters-the-mayor-elect-of-new-york-city-after-his-historic-victory/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwVkJOMENN",
-      "bias": { "composite": -0.85 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "bbcnews",
-      "outlet_name": "BBC News",
-      "headline": "Mamdani seals remarkable victory - but real challenges await",
-      "url": "https://www.bbc.com/news/articles/cly4kr8gzr2o",
-      "bias": { "composite": -0.80 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "forbes",
-      "outlet_name": "Forbes",
-      "headline": "NYC Mayoral Race...: Mamdani Wins, Calls It A “Mandate For Change”",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/11/04/nyc-mayoral-race-live-updates-mamdani-wins-calls-it-a-mandate-for-change/",
-      "bias": { "composite": -0.50 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "newsweek",
-      "outlet_name": "Newsweek",
-      "headline": "Mamdani Defeats Cuomo and Sliwa to Win New York City Mayoral Election",
-      "url": "https://www.newsweek.com/new-york-city-mayoral-election-results-winner-mamdani-10982361",
-      "bias": { "composite": -0.30 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "christiansciencemonitor",
-      "outlet_name": "Christian Science Monitor",
-      "headline": "Democrats ride economic anxiety, anti-Trump groundswell to big wins",
-      "url": "https://www.csmonitor.com/USA/Politics/2025/1105/election-results-virginia-new-jersey-california",
-      "bias": { "composite": -0.30 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "wsj",
-      "outlet_name": "Wall Street Journal (News)",
-      "headline": "Election Day 2025: Zohran Mamdani Takes NYC as Democrats Win Key Races",
-      "url": "https://www.wsj.com/livecoverage/election-day-2025",
-      "bias": { "composite": 0.33 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "washingtonexaminer",
-      "outlet_name": "The Washington Examiner",
-      "headline": "Socialist Zohran Mamdani wins New York City mayoral race against Cuomo and Sliwa",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/3871226/zohran-mamdani-cuomo-sliwa-new-york-city-mayor-race/",
-      "bias": { "composite": 2.30 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "nationalreview",
-      "outlet_name": "The National Review",
-      "headline": "Socialist Zohran Mamdani Elected New York City Mayor",
-      "url": "https://www.nationalreview.com/news/socialist-zohran-mamdani-elected-new-york-city-mayor/",
-      "bias": { "composite": 2.50 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "nypost",
-      "outlet_name": "New York Post",
-      "headline": "Zohran Mamdani wins 2025 NYC mayoral election — wastes no time in declaring war on Trump in victory speech",
-      "url": "https://nypost.com/2025/11/04/us-news/zohran-mamdani-wins-2025-nyc-mayoral-election/",
-      "bias": { "composite": 2.93 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "newsmax",
-      "outlet_name": "Newsmax",
-      "headline": "Socialist Dem Mamdani Becomes NYC's First Muslim Mayor. Mamdani Victory Signals Earthshaking Shift in NYC Politics",
-      "url": "https://www.newsmax.com/newsfront/nyc-mayors-race-zohran-mamdani-andrew-cuomo/2025/11/04/id/1233246/",
-      "bias": { "composite": 3.05 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "oneamericanews",
-      "outlet_name": "One America News",
-      "headline": "...Mamdani had ‘character shift’ during victory speech",
-      "url": "https://www.oann.com/newsroom/van-jones-mamdani-had-character-shift-during-victory-speech/",
-      "bias": { "composite": 3.13 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "foxnews",
-      "outlet_name": "Fox News",
-      "headline": "Socialist shockwave: Zohran Mamdani stuns NYC as voters hand power to Democrats’ far-left flank",
-      "url": "https://www.foxnews.com/politics/socialist-shockwave-zohran-mamdani-stuns-nyc-voters-hand-power-democrats-far-left-flank",
-      "bias": { "composite": 3.27 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "theamericanconservative",
-      "outlet_name": "The American Conservative",
-      "headline": "Zohran Mamdani Elected Mayor of New York City",
-      "url": "https://www.theamericanconservative.com/zohran-mamdani-elected-mayor-of-new-york-city/",
-      "bias": { "composite": 3.27 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "breitbart",
-      "outlet_name": "Breitbart",
-      "headline": "Muslim Socialist Zohran Mamdani Wins New York City Mayor Election",
-      "url": "https://www.breitbart.com/politics/2025/11/04/muslim-socialist-zohran-mamdani-wins-new-york-city-mayor-election/amp/",
-      "bias": { "composite": 6.0 },
-      "match_type": "exact"
-    }
-  ]
+type OutletItem = {
+    outlet_slug: string
+    outlet_name: string
+    headline: string
+    url: string
+    match_type?: "exact" | "related" | "skip"
+    bias?: { composite?: number; allsides_label?: string | null }
 }
+type DailyBundle = {
+    date: string
+    event?: { canonical_headline?: string }
+    outlets: OutletItem[]
+}
+
+const clamp = (n: number, a: number, b: number) => Math.min(b, Math.max(a, n))
+
+function legacyBiasColor(score?: number) {
+    if (score == null) return "#111"
+    if (score <= -55) return "#123A8C"
+    if (score <= -35) return "#2467D1"
+    if (score <= -15) return "#4A8DEF"
+    if (score < 15) return "#111"
+    if (score < 35) return "#E45A67"
+    if (score < 55) return "#C21B2E"
+    return "#8E0F1E"
+}
+
+/** Spectral color with asymmetric neutral band; right = true red band (6..12deg), left = 220..260deg */
+function spectralBiasColor(
+    score?: number,
+    {
+        zeroMin = -1.3,
+        zeroMax = 0.5,
+        domain = 6,
+        sMin = 25,
+        sMax = 80,
+        light = 46,
+    }: {
+        zeroMin?: number
+        zeroMax?: number
+        domain?: number
+        sMin?: number
+        sMax?: number
+        light?: number
+    } = {}
+) {
+    if (typeof score !== "number") return `hsl(260 ${sMin}% ${light}%)`
+    const x = score
+    if (x >= zeroMin && x <= zeroMax) return `hsl(260 ${sMin}% ${light}%)`
+
+    const d = Math.max(0.5, Math.abs(domain))
+    const distRight = x > zeroMax ? x - zeroMax : 0
+    const distLeft = x < zeroMin ? zeroMin - x : 0
+    const spanRight = Math.max(0.5, d - zeroMax)
+    const spanLeft = Math.max(0.5, d - Math.abs(zeroMin))
+
+    if (x > zeroMax) {
+        const tMag = clamp(distRight / spanRight, 0, 1)
+        const sat = Math.round(sMin + (sMax - sMin) * tMag)
+        const hue = 6 + 6 * tMag // true red band 6→12
+        return `hsl(${Math.round(hue)} ${sat}% ${light}%)`
+    } else {
+        const tMag = clamp(distLeft / spanLeft, 0, 1)
+        const sat = Math.round(sMin + (sMax - sMin) * tMag)
+        const hue = 260 - 40 * tMag // 260→220 (purple→deep blue)
+        return `hsl(${Math.round(hue)} ${sat}% ${light}%)`
+    }
+}
+
+function rubberband(value: number, min: number, max: number, k = 0.25) {
+    if (value < min) return min + (value - min) * k
+    if (value > max) return max + (value - max) * k
+    return value
+}
+function cssFontFamily(family: string): string {
+    if (!family)
+        return "system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif"
+    const t = family.trim()
+    if (t.startsWith("'") || t.startsWith('"')) return t
+    return /\s/.test(t) ? `'${t}'` : t
+}
+
+export default function BiasFieldCarousel_1({
+    /* Data */
+    jsonUrl = "",
+    useSample = false,
+    enableDateParam = true,
+
+    /* Layout & style */
+    height = 520,
+    backgroundColor = "#ffffff",
+    headerTextColor = "#111111",
+    cardColor = "#ffffff",
+    cardWidth = 320,
+    gap = 20,
+    leftPadding = 16,
+    rightPadding = 16,
+    maxCards = 24,
+
+    /* Card chrome */
+    cardRadius = 16,
+    cardBorderColor = "transparent",
+    cardBorderWidth = 0,
+
+    /* Hover styling */
+    cardHoverBorderColor = "#000000",
+    cardHoverScale = 5, // percent
+
+    /* Headline typography */
+    headlineLines = 2,
+    headlineFontSize = 22,
+    headlineFontFamily = "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+    headlineFontWeight = "800",
+    headlineLetterSpacing = 0,
+    headlineFontURL = "",
+    headlineBaseColor = "#111111",
+    showTooltipOnClamp = true,
+
+    /* Hover color mode + spectral tuning */
+    hoverColorMode = "spectral",
+    spectralZeroMin = -1.3,
+    spectralZeroMax = 0.5,
+    spectralDomain = 6,
+    spectralSatMin = 25,
+    spectralSatMax = 80,
+    spectralLightness = 46,
+
+    /* Bias calibration */
+    biasOffset = 0,
+
+    /* Navigation */
+    hideArrowsOnTouch = true,
+    navColor = "#222222",
+    navHoverColor = "#000000",
+    navSize = 28,
+    leftSvg = "",
+    rightSvg = "",
+
+    /* Motion */
+    swipeThresholdPct = 25,
+    enableFlick = true,
+    flickVelocity = 900,
+    maxFlickSteps = 2,
+    edgeResistance = 0.25,
+
+    /* Auto-play */
+    autoPlay = false,
+    autoPlayMs = 4000,
+
+    /* Sorting */
+    sortMode = "biasAsc",
+
+    /* Debug */
+    showDebugPill = false,
+}: {
+    jsonUrl?: string
+    useSample?: boolean
+    enableDateParam?: boolean
+
+    height?: number
+    backgroundColor?: string
+    headerTextColor?: string
+    cardColor?: string
+    cardWidth?: number
+    gap?: number
+    leftPadding?: number
+    rightPadding?: number
+    maxCards?: number
+
+    cardRadius?: number
+    cardBorderColor?: string
+    cardBorderWidth?: number
+
+    headlineLines?: number
+    headlineFontSize?: number
+    headlineFontFamily?: string
+    headlineFontWeight?: string | number
+    headlineLetterSpacing?: number
+    headlineFontURL?: string
+    headlineBaseColor?: string
+    showTooltipOnClamp?: boolean
+
+    hoverColorMode?: "spectral" | "legacy"
+    spectralZeroMin?: number
+    spectralZeroMax?: number
+    spectralDomain?: number
+    spectralSatMin?: number
+    spectralSatMax?: number
+    spectralLightness?: number
+
+    biasOffset?: number
+
+    hideArrowsOnTouch?: boolean
+    navColor?: string
+    navHoverColor?: string
+    navSize?: number
+    leftSvg?: string
+    rightSvg?: string
+
+    swipeThresholdPct?: number
+    enableFlick?: boolean
+    flickVelocity?: number
+    maxFlickSteps?: number
+    edgeResistance?: number
+
+    autoPlay?: boolean
+    autoPlayMs?: number
+
+    sortMode?: "biasAsc" | "biasDesc" | "none"
+
+    showDebugPill?: boolean
+}) {
+    /* Sample */
+    const SAMPLE: DailyBundle = {
+        date: "2025-10-03",
+        event: { canonical_headline: "EXAMPLE: Congress passes X bill" },
+        outlets: [
+            {
+                outlet_slug: "nyt",
+                outlet_name: "The New York Times",
+                headline: "EXAMPLE: Contentious vote reflects divisions over X",
+                url: "#",
+                bias: { composite: -4.3, allsides_label: "Lean Left" },
+            },
+            {
+                outlet_slug: "ap",
+                outlet_name: "Associated Press",
+                headline:
+                    "EXAMPLE: House passes X bill; Senate to vote next week",
+                url: "#",
+                bias: { composite: 0, allsides_label: "Center" },
+            },
+            {
+                outlet_slug: "fox",
+                outlet_name: "Fox News",
+                headline:
+                    "EXAMPLE: House narrowly approves X bill after Dems break ranks",
+                url: "#",
+                bias: { composite: 6, allsides_label: "Lean Right" },
+            },
+        ],
+    }
+    const [data, setData] = React.useState<DailyBundle | null>(
+        useSample ? SAMPLE : null
+    )
+    const [error, setError] = React.useState<string | null>(null)
+
+    /* Optional font loader */
+    React.useEffect(() => {
+        if (!headlineFontURL) return
+        const id = "bf-headline-font-link"
+        document.getElementById(id)?.remove()
+        const link = document.createElement("link")
+        link.id = id
+        link.rel = "stylesheet"
+        link.href = headlineFontURL
+        document.head.appendChild(link)
+        return () => link.remove()
+    }, [headlineFontURL])
+
+    /* Fetch JSON (?d=YYYY-MM-DD override) */
+    React.useEffect(() => {
+        if (useSample || !jsonUrl) return
+        const resolveJsonUrl = (base: string) => {
+            if (!enableDateParam) return base
+            try {
+                const params = new URLSearchParams(window.location.search)
+                const d = params.get("d")
+                if (d && /^\d{4}-\d{2}-\d{2}$/.test(d)) {
+                    const u = new URL(base)
+                    return `${u.origin}${u.pathname.replace(/latest\.json$/, "")}daily/${d}.json`
+                }
+            } catch {}
+            return base
+        }
+        const target = resolveJsonUrl(jsonUrl)
+        fetch(target, { cache: "no-store" })
+            .then((r) => {
+                if (!r.ok) throw new Error(`HTTP ${r.status}`)
+                return r.json()
+            })
+            .then((j: DailyBundle) => setData(j))
+            .catch((e) => setError(String(e)))
+    }, [jsonUrl, useSample, enableDateParam])
+
+    /* Dynamic stylesheet */
+    React.useEffect(() => {
+        const id = "bf-v1-style"
+        document.getElementById(id)?.remove()
+        const family = cssFontFamily(headlineFontFamily)
+        const s = document.createElement("style")
+        s.id = id
+        s.textContent = `
+      .bf-v1 { isolation:isolate; font:14px/1.35 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; }
+      .bf-v1__debug { position:absolute; top:8px; left:8px; padding:6px 10px; border-radius:999px; background:rgba(0,0,0,.75); color:#eee; font-size:12px; }
+
+      .bf-v1__header { padding:12px 16px; display:flex; gap:8px; align-items:center; color:${headerTextColor}; }
+      .bf-v1__date { font-weight:800; color:${headerTextColor}; }
+      .bf-v1__title { font-weight:400; color:${headerTextColor}; }
+
+      .bf-v1__viewport {
+        position:absolute;
+        left:${leftPadding}px;
+        right:${rightPadding}px;
+        top:56px;
+        bottom:${Math.max(10, navSize + 10)}px;
+        overflow:visible;             /* allow hover-grow to extend outside */
+        pointer-events:auto;
+        touch-action: pan-y;
+        -ms-touch-action: pan-y;
+      }
+
+      .bf-v1__track {
+        height:100%;
+        display:flex;
+     -  align-items:center;           /* vertically centers cards during hover */
+     +  align-items:stretch;          /* all cards take full viewport height */
+        will-change: transform;
+     }
+
+      .bf-v1__card {
+        background:${cardColor};
+        border-radius:${Math.max(0, Math.min(99, cardRadius))}px;
+        border:${Math.max(0, cardBorderWidth)}px solid ${cardBorderColor};
+        box-shadow:0 8px 24px rgba(0,0,0,.15);
+        padding:16px 18px;
+        width:${cardWidth}px; min-width:${cardWidth}px; margin-right:${gap}px;
+        display:flex; flex-direction:column; justify-content:space-between;
+        +  height:100%;
+        +  box-sizing:border-box;   /* include padding/border in the fixed height */
+        transform-origin:center center;
+        transition:transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease, z-index 0s;
+      }
+      .bf-v1__card:hover {
+        transform: scale(${1 + cardHoverScale / 100});
+        border-color: ${cardHoverBorderColor};
+        box-shadow: 0 10px 28px rgba(0,0,0,0.25);  /* subtle shadow bloom */
+        filter: brightness(1.05);                  /* gentle brightness lift */
+        z-index: 3;                                /* raise above neighbors */
+      }
+
+      .bf-v1__headlineBox { border-radius:6px; padding:6px 8px; }
+
+      .bf-v1__headline {
+        font-family:${family};
+        font-weight:${headlineFontWeight};
+        letter-spacing:${headlineLetterSpacing}px;
+        font-size:${headlineFontSize}px;
+        line-height:1.15;
+        text-decoration:none; outline:none; cursor:pointer;
+        display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:${Math.max(1, headlineLines)};
+        overflow:hidden;
+      }
+      .bf-v1__headline, .bf-v1__headline * {
+        color: var(--bf-headline-color, #111) !important;
+        -webkit-text-fill-color: var(--bf-headline-color, #111) !important;
+        mix-blend-mode: normal !important;
+        background: none !important;
+        -webkit-background-clip: initial !important;
+      }
+
+      .bf-v1__headline:focus-visible { box-shadow:0 0 0 3px rgba(0,128,255,.3); border-radius:4px; }
+      .bf-v1__outlet { margin-top:17px; font-style:italic; color:#666; }
+      .bf-v1__bias { margin-top:10px; font-size:14px; color:#666; display:flex; justify-content:space-between; }
+
+      .bf-v1__nav { position:absolute; bottom:10px; width:${navSize}px; height:${navSize}px; padding:0; border:none; background:transparent; box-shadow:none; display:grid; place-items:center; cursor:pointer; color:${navColor}; }
+      .bf-v1__nav:hover { color:${navHoverColor}; }
+      .bf-v1__nav[disabled]{ opacity:.35; cursor:default; }
+      .bf-v1__nav--left{ left:${leftPadding}px; } .bf-v1__nav--right{ right:${rightPadding}px; }
+      .bf-v1__nav svg, .bf-v1__nav svg * { stroke: currentColor !important; fill: currentColor !important; }
+      .bf-v1__nav svg { width:${Math.round(navSize * 0.65)}px; height:${Math.round(navSize * 0.65)}px; }
+      @media (pointer:coarse){ ${hideArrowsOnTouch ? ".bf-v1__nav{display:none;}" : ""} }
+    `
+        document.head.appendChild(s)
+    }, [
+        gap,
+        cardWidth,
+        leftPadding,
+        rightPadding,
+        headlineLines,
+        headlineFontSize,
+        headlineFontFamily,
+        headlineFontWeight,
+        headlineLetterSpacing,
+        hideArrowsOnTouch,
+        navColor,
+        navHoverColor,
+        navSize,
+        cardColor,
+        cardRadius,
+        cardBorderColor,
+        cardBorderWidth,
+        headerTextColor,
+    ])
+
+    const [viewportW, setViewportW] = React.useState(0)
+    const rootRef = React.useRef<HTMLDivElement | null>(null)
+    React.useLayoutEffect(() => {
+        const el = rootRef.current
+        if (!el) return
+        const measure = () =>
+            setViewportW(
+                Math.max(0, el.clientWidth - leftPadding - rightPadding)
+            )
+        measure()
+        const ro = new ResizeObserver(measure)
+        ro.observe(el)
+        window.addEventListener("resize", measure)
+        return () => {
+            ro.disconnect()
+            window.removeEventListener("resize", measure)
+        }
+    }, [leftPadding, rightPadding])
+
+    /* Items (filter + sort + cap) with biasOffset for color & sort only */
+    const items = React.useMemo(() => {
+        if (!data?.outlets) return []
+        const base = data.outlets.filter(
+            (o) => (o.match_type ?? "exact") === "exact" && o.headline
+        )
+        const adj = (o: OutletItem) =>
+            typeof o.bias?.composite === "number"
+                ? o.bias.composite + biasOffset
+                : null
+
+        let sorted = base.slice()
+        if (sortMode !== "none") {
+            sorted.sort((a, b) => {
+                const A = adj(a),
+                    B = adj(b)
+                if (A === null && B === null)
+                    return a.outlet_name.localeCompare(b.outlet_name)
+                if (A === null) return sortMode === "biasAsc" ? 1 : -1
+                if (B === null) return sortMode === "biasAsc" ? -1 : 1
+                return sortMode === "biasAsc" ? A - B : B - A
+            })
+        }
+        return sorted.slice(0, maxCards)
+    }, [data, maxCards, sortMode, biasOffset])
+
+    /* Carousel state & motion */
+    const cardStep = cardWidth + gap
+    const maxIndex = Math.max(0, items.length - 1)
+    const [index, setIndex] = React.useState(0)
+    React.useEffect(() => setIndex((i) => Math.min(i, maxIndex)), [maxIndex])
+
+    const startX = React.useRef(0),
+        startIndex = React.useRef(0),
+        startT = React.useRef(0)
+    const lastX = React.useRef(0),
+        lastT = React.useRef(0),
+        velRef = React.useRef(0)
+    const dragging = React.useRef(false)
+    const [dragDx, setDragDx] = React.useState(0)
+
+    function beginDrag(clientX: number) {
+        dragging.current = true
+        startX.current = clientX
+        startIndex.current = index
+        startT.current = performance.now()
+        lastX.current = clientX
+        lastT.current = startT.current
+        velRef.current = 0
+        setDragDx(0)
+    }
+    function moveDrag(clientX: number) {
+        if (!dragging.current) return
+        setDragDx(clientX - startX.current)
+        const now = performance.now()
+        const dt = now - lastT.current
+        if (dt > 0) {
+            const inst = ((clientX - lastX.current) / dt) * 1000
+            velRef.current = inst * 0.6 + velRef.current * 0.4
+            lastX.current = clientX
+            lastT.current = now
+        }
+    }
+    function endDrag() {
+        if (!dragging.current) return
+        const dx = dragDx
+        const v = velRef.current
+
+        // 1) Project a little into the future so velocity matters.
+        const projectionMs = 240
+        const projectedPx = dx + v * (projectionMs / 1000)
+
+        // 2) Convert projected distance to a fractional index shift.
+        const projectedIndexFloat = startIndex.current - projectedPx / cardStep
+
+        // 3) Decide how many steps to move.
+        let next = startIndex.current
+        if (enableFlick && Math.abs(v) >= Math.max(100, flickVelocity)) {
+            const rawSteps = Math.round(
+                Math.abs(v) / (Math.max(100, flickVelocity) * 1.2)
+            )
+            const steps = Math.max(1, Math.min(maxFlickSteps ?? 2, rawSteps))
+            next = startIndex.current + (v < 0 ? +steps : -steps)
+        } else {
+            // Otherwise, snap to the nearest card based on projected position.
+            next = Math.round(projectedIndexFloat)
+        }
+
+        // 4) Clamp and apply.
+        next = Math.max(0, Math.min(maxIndex, next))
+        setIndex(next)
+        dragging.current = false
+
+        // Important: delay clearing dragDx so the transition starts from release pose
+        requestAnimationFrame(() => setDragDx(0))
+    }
+
+    const supportsPointer =
+        typeof window !== "undefined" && "PointerEvent" in window
+    const pointerProps = supportsPointer
+        ? {
+              onPointerDown: (e: React.PointerEvent) => {
+                  ;(e.target as HTMLElement).setPointerCapture?.(e.pointerId)
+                  beginDrag(e.clientX)
+              },
+              onPointerMove: (e: React.PointerEvent) => moveDrag(e.clientX),
+              onPointerUp: () => endDrag(),
+              onPointerCancel: () => endDrag(),
+          }
+        : {
+              onTouchStart: (e: React.TouchEvent) => {
+                  const t = e.touches[0]
+                  if (t) beginDrag(t.clientX)
+              },
+              onTouchMove: (e: React.TouchEvent) => {
+                  const t = e.touches[0]
+                  if (t) moveDrag(t.clientX)
+              },
+              onTouchEnd: () => endDrag(),
+          }
+
+    React.useEffect(() => {
+        const el = rootRef.current
+        if (!el) return
+        function onKey(e: KeyboardEvent) {
+            if (e.key === "ArrowLeft") setIndex((i) => Math.max(0, i - 1))
+            if (e.key === "ArrowRight")
+                setIndex((i) => Math.min(maxIndex, i + 1))
+        }
+        el.addEventListener("keydown", onKey)
+        return () => el.removeEventListener("keydown", onKey)
+    }, [maxIndex])
+
+    React.useEffect(() => {
+        if (!autoPlay || items.length <= 1) return
+        let id: number
+        function start() {
+            id = window.setInterval(
+                () => setIndex((i) => (i >= maxIndex ? 0 : i + 1)),
+                Math.max(1500, autoPlayMs)
+            )
+        }
+        function stop() {
+            if (id) window.clearInterval(id)
+        }
+        start()
+        const el = rootRef.current
+        const onEnter = () => stop(),
+            onLeave = () => start()
+        el?.addEventListener("mouseenter", onEnter)
+        el?.addEventListener("mouseleave", onLeave)
+        el?.addEventListener("focusin", onEnter)
+        el?.addEventListener("focusout", onLeave)
+        return () => {
+            stop()
+            el?.removeEventListener("mouseenter", onEnter)
+            el?.removeEventListener("mouseleave", onLeave)
+            el?.removeEventListener("focusin", onEnter)
+            el?.removeEventListener("focusout", onLeave)
+        }
+    }, [autoPlay, autoPlayMs, items.length, maxIndex])
+
+    const trackLeftCenterOffset = (viewportW - cardWidth) / 2
+    const baseOffset = trackLeftCenterOffset - index * (cardWidth + gap)
+    const minOffset =
+        trackLeftCenterOffset -
+        Math.max(0, items.length - 1) * (cardWidth + gap)
+    const maxOffset = trackLeftCenterOffset
+    const rawOffset = baseOffset + dragDx
+    const liveOffset = dragging.current
+        ? rubberband(
+              rawOffset,
+              minOffset,
+              maxOffset,
+              Math.max(0, Math.min(0.6, edgeResistance ?? 0.25))
+          )
+        : Math.max(minOffset, Math.min(maxOffset, rawOffset))
+
+    function HeadlineLink({
+        text,
+        href,
+        biasScore,
+        baseColor,
+    }: {
+        text: string
+        href: string
+        biasScore?: number
+        baseColor: string
+    }) {
+        const [hover, setHover] = React.useState(false)
+        const onClick = React.useCallback(() => {
+            window.open(href, "_blank", "noopener,noreferrer")
+        }, [href])
+        const title = showTooltipOnClamp ? text : undefined
+
+        const s =
+            typeof biasScore === "number" ? biasScore + biasOffset : undefined
+        const hoverCol =
+            hoverColorMode === "spectral"
+                ? spectralBiasColor(s, {
+                      zeroMin: spectralZeroMin,
+                      zeroMax: spectralZeroMax,
+                      domain: spectralDomain,
+                      sMin: spectralSatMin,
+                      sMax: spectralSatMax,
+                      light: spectralLightness,
+                  })
+                : legacyBiasColor(s)
+
+        return (
+            <div
+                className="bf-v1__headline"
+                role="link"
+                tabIndex={0}
+                onClick={onClick}
+                onKeyDown={(e) => {
+                    if (e.key === "Enter" || e.key === " ") {
+                        e.preventDefault()
+                        onClick()
+                    }
+                }}
+                onMouseEnter={() => setHover(true)}
+                onMouseLeave={() => setHover(false)}
+                style={{
+                    ["--bf-headline-color" as any]: hover
+                        ? hoverCol
+                        : baseColor,
+                }}
+                title={title}
+            >
+                {text}
+            </div>
+        )
+    }
+
+    const LeftIcon = () =>
+        leftSvg ? (
+            <span dangerouslySetInnerHTML={{ __html: leftSvg }} />
+        ) : (
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M15.5 5l-7 7 7 7" />
+            </svg>
+        )
+
+    const RightIcon = () =>
+        rightSvg ? (
+            <span dangerouslySetInnerHTML={{ __html: rightSvg }} />
+        ) : (
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M8.5 5l7 7-7 7" />
+            </svg>
+        )
+
+    return (
+        <div
+            ref={rootRef}
+            className="bf-v1"
+            style={{
+                width: "100%",
+                height,
+                position: "relative",
+                background: backgroundColor,
+            }}
+            tabIndex={0}
+            aria-label="BiasField headline carousel"
+        >
+            {showDebugPill && (
+                <div className="bf-v1__debug">
+                    {useSample ? "SAMPLE" : jsonUrl || "—"}
+                </div>
+            )}
+
+            {data && (
+                <div className="bf-v1__header">
+                    <div className="bf-v1__date">{data.date}</div>
+                    <div className="bf-v1__title">
+                        {data.event?.canonical_headline ?? ""}
+                    </div>
+                </div>
+            )}
+
+            <div className="bf-v1__viewport" {...pointerProps}>
+                <div
+                    className="bf-v1__track"
+                    style={{
+                        width: items.length * (cardWidth + gap),
+                        transform: `translateX(${liveOffset}px)`,
+                        transition: dragging.current
+                            ? "none"
+                            : "transform 320ms cubic-bezier(.2,.7,.2,1)",
+                    }}
+                >
+                    {items.map((o, i) => {
+                        const s =
+                            typeof o.bias?.composite === "number"
+                                ? o.bias.composite + biasOffset
+                                : undefined
+                        const tint =
+                            hoverColorMode === "spectral"
+                                ? spectralBiasColor(s, {
+                                      zeroMin: spectralZeroMin,
+                                      zeroMax: spectralZeroMax,
+                                      domain: spectralDomain,
+                                      sMin: Math.max(8, spectralSatMin),
+                                      sMax: spectralSatMax,
+                                      light: spectralLightness + 18,
+                                  })
+                                : legacyBiasColor(s)
+
+                        return (
+                            <article
+                                key={o.outlet_slug + i}
+                                className="bf-v1__card"
+                            >
+                                <div
+                                    className="bf-v1__headlineBox"
+                                    style={{ background: tint + "20" }}
+                                >
+                                    <HeadlineLink
+                                        text={o.headline}
+                                        href={o.url}
+                                        biasScore={o.bias?.composite}
+                                        baseColor={headlineBaseColor}
+                                    />
+                                </div>
+                                <div className="bf-v1__outlet">
+                                    {o.outlet_name}
+                                </div>
+                                <div className="bf-v1__bias">
+                                    <div>{o.bias?.allsides_label ?? ""}</div>
+                                    <div>
+                                        {typeof o.bias?.composite === "number"
+                                            ? `Bias: ${o.bias.composite}`
+                                            : ""}
+                                    </div>
+                                </div>
+                            </article>
+                        )
+                    })}
+                </div>
+            </div>
+
+            <button
+                className="bf-v1__nav bf-v1__nav--left"
+                onClick={() => setIndex((i) => Math.max(0, i - 1))}
+                disabled={index <= 0}
+                aria-label="Previous"
+                title="Previous"
+            >
+                <LeftIcon />
+            </button>
+            <button
+                className="bf-v1__nav bf-v1__nav--right"
+                onClick={() => setIndex((i) => Math.min(maxIndex, i + 1))}
+                disabled={index >= maxIndex}
+                aria-label="Next"
+                title="Next"
+            >
+                <RightIcon />
+            </button>
+
+            {error && (
+                <div style={{ position: "absolute", inset: 12, color: "#b00" }}>
+                    {error}
+                </div>
+            )}
+        </div>
+    )
+}
+
+addPropertyControls(BiasFieldCarousel_1, {
+    /* Data */
+    jsonUrl: { type: ControlType.String, title: "JSON URL" },
+    useSample: {
+        type: ControlType.Boolean,
+        title: "Use Sample",
+        defaultValue: false,
+    },
+    enableDateParam: {
+        type: ControlType.Boolean,
+        title: "?d= param",
+        defaultValue: true,
+    },
+
+    /* Layout & style */
+    height: {
+        type: ControlType.Number,
+        title: "Height",
+        defaultValue: 520,
+        min: 260,
+        max: 900,
+        step: 1,
+    },
+    backgroundColor: {
+        type: ControlType.Color,
+        title: "Background",
+        defaultValue: "#ffffff",
+    },
+    headerTextColor: {
+        type: ControlType.Color,
+        title: "Header Text",
+        defaultValue: "#111111",
+    },
+    cardColor: {
+        type: ControlType.Color,
+        title: "Card Color",
+        defaultValue: "#ffffff",
+    },
+    cardWidth: {
+        type: ControlType.Number,
+        title: "Card Width",
+        defaultValue: 320,
+        min: 220,
+        max: 520,
+        step: 10,
+    },
+    gap: {
+        type: ControlType.Number,
+        title: "Gap",
+        defaultValue: 20,
+        min: 0,
+        max: 64,
+        step: 2,
+    },
+    leftPadding: {
+        type: ControlType.Number,
+        title: "Left Pad",
+        defaultValue: 16,
+        min: 0,
+        max: 160,
+        step: 1,
+    },
+    rightPadding: {
+        type: ControlType.Number,
+        title: "Right Pad",
+        defaultValue: 16,
+        min: 0,
+        max: 160,
+        step: 1,
+    },
+    maxCards: {
+        type: ControlType.Number,
+        title: "Max Cards",
+        defaultValue: 24,
+        min: 3,
+        max: 60,
+        step: 1,
+    },
+
+    /* Card chrome */
+    cardRadius: {
+        type: ControlType.Number,
+        title: "Card Radius",
+        defaultValue: 16,
+        min: 0,
+        max: 99,
+        step: 1,
+    },
+    cardBorderColor: {
+        type: ControlType.Color,
+        title: "Card Border",
+        defaultValue: "transparent",
+    },
+    cardBorderWidth: {
+        type: ControlType.Number,
+        title: "Border Width",
+        defaultValue: 0,
+        min: 0,
+        max: 12,
+        step: 1,
+    },
+
+    /* Hover styling */
+    cardHoverBorderColor: {
+        type: ControlType.Color,
+        title: "Hover Border",
+        defaultValue: "#000000",
+    },
+    cardHoverScale: {
+        type: ControlType.Number,
+        title: "Hover Scale (%)",
+        defaultValue: 5,
+        min: 0,
+        max: 15,
+        step: 0.5,
+    },
+
+    /* Headline typography */
+    headlineLines: {
+        type: ControlType.Number,
+        title: "Headline Lines",
+        defaultValue: 2,
+        min: 1,
+        max: 12,
+        step: 1,
+    },
+    headlineFontSize: {
+        type: ControlType.Number,
+        title: "Headline Size",
+        defaultValue: 22,
+        min: 14,
+        max: 48,
+        step: 1,
+    },
+    headlineFontFamily: {
+        type: ControlType.String,
+        title: "Headline Font",
+        defaultValue:
+            "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+    },
+    headlineFontWeight: {
+        type: ControlType.Enum,
+        title: "Weight",
+        options: ["400", "500", "600", "700", "800", "900"],
+        optionTitles: ["400", "500", "600", "700", "800", "900"],
+        defaultValue: "800",
+    },
+    headlineLetterSpacing: {
+        type: ControlType.Number,
+        title: "Letter Spacing",
+        defaultValue: 0,
+        min: -1,
+        max: 5,
+        step: 0.1,
+    },
+    headlineFontURL: {
+        type: ControlType.String,
+        title: "Font CSS URL",
+        defaultValue: "",
+    },
+    headlineBaseColor: {
+        type: ControlType.Color,
+        title: "Headline Base",
+        defaultValue: "#111111",
+    },
+    showTooltipOnClamp: {
+        type: ControlType.Boolean,
+        title: "Tooltip on Clamp",
+        defaultValue: true,
+    },
+
+    /* Hover color tuning */
+    hoverColorMode: {
+        type: ControlType.Enum,
+        title: "Hover Color Mode",
+        options: ["spectral", "legacy"],
+        optionTitles: ["Spectral", "Legacy"],
+        defaultValue: "spectral",
+    },
+    spectralZeroMin: {
+        type: ControlType.Number,
+        title: "Neutral Min",
+        defaultValue: -1.3,
+        min: -10,
+        max: 0,
+        step: 0.1,
+    },
+    spectralZeroMax: {
+        type: ControlType.Number,
+        title: "Neutral Max",
+        defaultValue: 0.5,
+        min: 0,
+        max: 10,
+        step: 0.1,
+    },
+    spectralDomain: {
+        type: ControlType.Number,
+        title: "Spectral Domain",
+        defaultValue: 6,
+        min: 1,
+        max: 50,
+        step: 0.5,
+    },
+    spectralSatMin: {
+        type: ControlType.Number,
+        title: "Sat Min",
+        defaultValue: 25,
+        min: 0,
+        max: 100,
+        step: 1,
+    },
+    spectralSatMax: {
+        type: ControlType.Number,
+        title: "Sat Max",
+        defaultValue: 80,
+        min: 0,
+        max: 100,
+        step: 1,
+    },
+    spectralLightness: {
+        type: ControlType.Number,
+        title: "Lightness",
+        defaultValue: 46,
+        min: 20,
+        max: 80,
+        step: 1,
+    },
+
+    /* Bias calibration */
+    biasOffset: {
+        type: ControlType.Number,
+        title: "Bias Offset",
+        defaultValue: 0,
+        min: -10,
+        max: 10,
+        step: 0.1,
+    },
+
+    /* Sorting */
+    sortMode: {
+        type: ControlType.Enum,
+        title: "Sort",
+        options: ["biasAsc", "biasDesc", "none"],
+        optionTitles: ["Bias Asc", "Bias Desc", "None"],
+        defaultValue: "biasAsc",
+    },
+
+    /* Navigation */
+    hideArrowsOnTouch: {
+        type: ControlType.Boolean,
+        title: "Hide Arrows on Touch",
+        defaultValue: true,
+    },
+    navColor: {
+        type: ControlType.Color,
+        title: "Arrow Color",
+        defaultValue: "#222222",
+    },
+    navHoverColor: {
+        type: ControlType.Color,
+        title: "Arrow Hover",
+        defaultValue: "#000000",
+    },
+    navSize: {
+        type: ControlType.Number,
+        title: "Arrow Size",
+        defaultValue: 28,
+        min: 18,
+        max: 120,
+        step: 1,
+    },
+    leftSvg: { type: ControlType.String, title: "Left SVG (inline)" },
+    rightSvg: { type: ControlType.String, title: "Right SVG (inline)" },
+
+    /* Motion */
+    swipeThresholdPct: {
+        type: ControlType.Number,
+        title: "Swipe Threshold (%)",
+        defaultValue: 25,
+        min: 8,
+        max: 60,
+        step: 1,
+    },
+    enableFlick: {
+        type: ControlType.Boolean,
+        title: "Enable Flick",
+        defaultValue: true,
+    },
+    flickVelocity: {
+        type: ControlType.Number,
+        title: "Flick Threshold (px/s)",
+        defaultValue: 900,
+        min: 200,
+        max: 2400,
+        step: 50,
+    },
+    maxFlickSteps: {
+        type: ControlType.Number,
+        title: "Max Flick Steps",
+        defaultValue: 2,
+        min: 1,
+        max: 5,
+        step: 1,
+    },
+    edgeResistance: {
+        type: ControlType.Number,
+        title: "Edge Resistance",
+        defaultValue: 0.25,
+        min: 0,
+        max: 0.6,
+        step: 0.05,
+    },
+
+    /* Debug */
+    showDebugPill: {
+        type: ControlType.Boolean,
+        title: "Debug Pill",
+        defaultValue: false,
+    },
+})
