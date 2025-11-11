@@ -5,217 +5,208 @@
     {
       "outlet_slug": "huffingtonpost",
       "outlet_name": "The Huffington Post",
-      "headline": "Zohran Mamdani Makes History As New York City's Next Mayor",
-      "url": "https://www.huffpost.com/entry/zohran-mamdani-wins-new-york-mayor-race_n_690266a9e4b0e763a61c76bc?origin=home-politics-feed-unit",
+      "headline": "Senate Approves Bill To Reopen Federal Government",
+      "url": "https://www.huffpost.com/entry/government-shutdown-deal-senate_n_69125abbe4b0b840aac16e69",
       "bias": { "composite": -4.3 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "msnbc",
       "outlet_name": "MSNBC",
-      "headline": "Mamdani wins historic NYC mayor's race...",
-      "url": "https://www.msnbc.com/top-stories/latest/mamdani-wins-nyc-mayor-race-election-results-rcna240589",
+      "headline": "Senate passes a government funding bill as shutdown nears its likely end",
+      "url": "https://www.msnbc.com/msnbc/news/senate-passes-funding-bill-shutdown-end-rcna243135",
       "bias": { "composite": -3.71 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "guardianus",
       "outlet_name": "The Guardian US",
-      "headline": "Zohran Mamdani elected mayor of New York on winning night for Democrats",
-      "url": "https://www.theguardian.com/us-news/2025/nov/04/zohran-mamdani-mayor-new-york-city",
+      "headline": "Senate approves funding deal to end longest US government shutdown",
+      "url": "https://www.theguardian.com/us-news/2025/nov/10/senate-approves-funding-package-government-shutdown",
       "bias": { "composite": -3.50 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "ap",
       "outlet_name": "Associated Press",
-      "headline": "...Zohran Mamdani, a self-described democratic socialist, elected New York City mayor",
-      "url": "https://apnews.com/article/new-york-city-mayor-election-mamdani-cuomo-sliwa-070d5b6e5544cfe6809ade6fa8b8b74a",
+      "headline": "Bill to end government shutdown passes the Senate, heads to the House next for final vote",
+      "url": "https://apnews.com/live/donald-trump-news-updates-11-10-2025",
       "bias": { "composite": -3.02 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "bloomberg",
       "outlet_name": "Bloomberg",
-      "headline": "Mamdani Makes History With Decisive Win in NYC Mayor's Race",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-05/mamdani-wins-race-to-become-next-mayor-of-nyc-ap-says",
+      "headline": "US Shutdown Nears End as Senate Passes Deal, House Readies Vote",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-11/us-shutdown-nears-end-as-senate-passes-deal-house-still-to-act?srnd=homepage-americas",
       "bias": { "composite": -2.40 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "nyt",
       "outlet_name": "The New York Times News",
-      "headline": "Zohran Mamdani Is Elected Mayor of New York City",
-      "url": "https://www.nytimes.com/2025/11/04/nyregion/nyc-mayor-mamdani-elected.html",
+      "headline": "Senate Passes Deal to Reopen Government",
+      "url": "https://www.nytimes.com/live/2025/11/10/us/trump-government-shutdown-news",
       "bias": { "composite": -2.20 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "usatoday",
       "outlet_name": "USA Today",
-      "headline": "In generational shift, Zohran Mamdani wins NYC mayor's race",
-      "url": "https://www.usatoday.com/story/news/politics/2025/11/04/zohran-mamdani-wins-nyc-mayor-election/86311529007/",
+      "headline": "...Senate passes deal to end funding fight",
+      "url": "https://www.usatoday.com/story/news/politics/2025/11/10/shutdown-day-41-live-updates-snap-travel/87104864007/",
       "bias": { "composite": -2.00 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "washpost",
       "outlet_name": "The Washington Post",
-      "headline": "Mamdani wins NYC mayor race, California passes Prop 50, Democrats take governor races in N.J., Va.",
-      "url": "https://www.washingtonpost.com/politics/2025/11/04/election-2025-live-updates/",
+      "headline": "Deal to end government shutdown passes Senate, heads to House",
+      "url": "https://www.washingtonpost.com/business/2025/11/10/government-shutdown-senate-bill/",
       "bias": { "composite": -1.63 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "cbsnews",
       "outlet_name": "CBS News",
-      "headline": "Zohran Mamdani claims victory in NYC mayor's race, promises \\\"relentless improvement\\\"",
-
-      "url": "https://www.cbsnews.com/newyork/live-updates/nyc-election-results-2025/",
+      "headline": "Government shutdown end in sight as Senate approves funding package, sending it to House",
+      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-senate-deal-day-41/",
       "bias": { "composite": -1.50 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "abcnews",
       "outlet_name": "ABC News",
-      "headline": "Mamdani makes history with improbable, meteoric rise to become New York's next mayor...",
-      "url": "https://abcnews.go.com/Politics/mamdani-makes-history-improbable-meteoric-rise-become-new/story?id=127196199",
+      "headline": "Government shutdown updates: Senate passes government funding bill",
+      "url": "https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640",
       "bias": { "composite": -1.42 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "cnn",
       "outlet_name": "CNN",
-      "headline": "Zohran Mamdani wins New York City mayoral election",
-      "url": "https://www.cnn.com/2025/11/04/politics/nyc-mayor-zohran-mamdani-wins",
+      "headline": "Senate votes to end government shutdown, sending funding bill to the House",
+      "url": "https://www.cnn.com/2025/11/10/politics/senate-vote-government-shutdown-funding",
       "bias": { "composite": -1.30 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "nbcnews",
       "outlet_name": "NBC News",
-      "headline": "Zohran Mamdani wins the New York mayoral race",
-      "url": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+      "headline": "Senate passes bill to reopen the government as 8 Democrats join with Republicans to send it to the House",
+      "url": "https://www.nbcnews.com/politics/congress/senate-passes-bill-reopen-government-sends-to-house-rcna243120",
       "bias": { "composite": -1.22 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "politico",
       "outlet_name": "Politico",
-      "headline": "Zohran Mamdani wins NYC mayoral race",
-      "url": "https://www.politico.com/news/2025/11/04/zohran-mamdani-wins-mayor-new-york-city-00634476",
+      "headline": "Senate passes shutdown-ending deal",
+      "url": "https://www.politico.com/news/2025/11/10/senate-passes-shutdown-ending-deal-00646020",
       "bias": { "composite": -1.20 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "reuters",
       "outlet_name": "Reuters",
-      "headline": "Mamdani addressed his supporters the mayor-elect of New York City, after his historic victory",
-      "url": "https://www.reutersconnect.com/item/mamdani-addressed-his-supporters-the-mayor-elect-of-new-york-city-after-his-historic-victory/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMUFOQURMMDAwVkJOMENN",
+      "headline": "US Senate passes bill to end government shutdown, sends to House",
+      "url": "https://www.reuters.com/world/us/us-senate-compromise-sets-stage-end-government-shutdown-2025-11-10/",
       "bias": { "composite": -0.85 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "bbcnews",
       "outlet_name": "BBC News",
-      "headline": "Mamdani seals remarkable victory - but real challenges await",
-      "url": "https://www.bbc.com/news/articles/cly4kr8gzr2o",
+      "headline": "US Senate passes funding bill as historic shutdown nears likely end",
+      "url": "https://www.bbc.com/news/articles/cj41pgpk0wgo",
       "bias": { "composite": -0.80 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "forbes",
       "outlet_name": "Forbes",
-      "headline": "NYC Mayoral Race...: Mamdani Wins, Calls It A “Mandate For Change”",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/11/04/nyc-mayoral-race-live-updates-mamdani-wins-calls-it-a-mandate-for-change/",
+      "headline": "Senate Passes Bill To Reopen Government",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/11/10/senate-passes-bill-to-reopen-government/",
       "bias": { "composite": -0.50 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "newsweek",
       "outlet_name": "Newsweek",
-      "headline": "Mamdani Defeats Cuomo and Sliwa to Win New York City Mayoral Election",
-      "url": "https://www.newsweek.com/new-york-city-mayoral-election-results-winner-mamdani-10982361",
+      "headline": "Senate Passes Bill to Fund Government to End of January",
+      "url": "https://www.newsweek.com/government-shutdown-vote-opening-aca-johnson-live-updates-11025369",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "christiansciencemonitor",
       "outlet_name": "Christian Science Monitor",
-      "headline": "Democrats ride economic anxiety, anti-Trump groundswell to big wins",
-      "url": "https://www.csmonitor.com/USA/Politics/2025/1105/election-results-virginia-new-jersey-california",
+      "headline": "Democrats’ unity cracks as Senate agrees to end shutdown. Next the House votes.",
+      "url": "https://www.csmonitor.com/USA/Politics/2025/1110/shutdown-democrats-senate-house",
       "bias": { "composite": -0.30 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "wsj",
       "outlet_name": "Wall Street Journal (News)",
-      "headline": "Election Day 2025: Zohran Mamdani Takes NYC as Democrats Win Key Races",
-      "url": "https://www.wsj.com/livecoverage/election-day-2025",
+      "headline": "Senate Passes Measure to End Government Shutdown",
+      "url": "https://www.wsj.com/politics/policy/senate-passes-measure-to-end-government-shutdown-ea7168b8?mod=hp_lead_pos1",
       "bias": { "composite": 0.33 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "washingtonexaminer",
       "outlet_name": "The Washington Examiner",
-      "headline": "Socialist Zohran Mamdani wins New York City mayoral race against Cuomo and Sliwa",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/3871226/zohran-mamdani-cuomo-sliwa-new-york-city-mayor-race/",
+      "headline": "Senate passes bill to end government shutdown, heads to House for final passage",
+      "url": "https://www.washingtonexaminer.com/news/senate/3881941/end-government-shutdown-closer-bill-clears-senate-heads-house/",
       "bias": { "composite": 2.30 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "nationalreview",
       "outlet_name": "The National Review",
-      "headline": "Socialist Zohran Mamdani Elected New York City Mayor",
-      "url": "https://www.nationalreview.com/news/socialist-zohran-mamdani-elected-new-york-city-mayor/",
+      "headline": "Senate Passes Bill to End Longest Government Shutdown in History",
+      "url": "https://www.nationalreview.com/news/senate-passes-bill-to-end-longest-government-shutdown-in-history/",
       "bias": { "composite": 2.50 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "nypost",
       "outlet_name": "New York Post",
-      "headline": "Zohran Mamdani wins 2025 NYC mayoral election — wastes no time in declaring war on Trump in victory speech",
-      "url": "https://nypost.com/2025/11/04/us-news/zohran-mamdani-wins-2025-nyc-mayoral-election/",
+      "headline": "Senate passes revised government funding bill, sends it back to the House",
+      "url": "https://nypost.com/2025/11/10/us-news/senate-passes-revised-government-funding-bill-sends-it-back-to-the-house/",
       "bias": { "composite": 2.93 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "newsmax",
       "outlet_name": "Newsmax",
-      "headline": "Socialist Dem Mamdani Becomes NYC's First Muslim Mayor. Mamdani Victory Signals Earthshaking Shift in NYC Politics",
-      "url": "https://www.newsmax.com/newsfront/nyc-mayors-race-zohran-mamdani-andrew-cuomo/2025/11/04/id/1233246/",
+      "headline": "Senate Votes to End Nation's Longest Govt Shutdown",
+      "url": "https://www.newsmax.com/us/government-shutdown-senate-vote/2025/11/10/id/1234013/",
       "bias": { "composite": 3.05 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "oneamericanews",
       "outlet_name": "One America News",
-      "headline": "...Mamdani had ‘character shift’ during victory speech",
-      "url": "https://www.oann.com/newsroom/van-jones-mamdani-had-character-shift-during-victory-speech/",
+      "headline": "Senate votes 60‑40 to end historic shutdown, bill moves to House",
+      "url": "https://www.oann.com/newsroom/senate-votes-60%e2%80%9140-to-end-historic-shutdown-bill-moves-to-house/",
       "bias": { "composite": 3.13 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "foxnews",
       "outlet_name": "Fox News",
-      "headline": "Socialist shockwave: Zohran Mamdani stuns NYC as voters hand power to Democrats’ far-left flank",
-      "url": "https://www.foxnews.com/politics/socialist-shockwave-zohran-mamdani-stuns-nyc-voters-hand-power-democrats-far-left-flank",
-      "bias": { "composite": 3.27 },
-      "match_type": "exact"
-    },
-    {
-      "outlet_slug": "theamericanconservative",
-      "outlet_name": "The American Conservative",
-      "headline": "Zohran Mamdani Elected Mayor of New York City",
-      "url": "https://www.theamericanconservative.com/zohran-mamdani-elected-mayor-of-new-york-city/",
+      "headline": "Senate ends 41-day government shutdown stalemate, sends bipartisan deal to House",
+      "url": "https://www.foxnews.com/politics/senate-ends-41-day-government-shutdown-stalemate-sends-bipartisan-deal-house",
       "bias": { "composite": 3.27 },
       "match_type": "exact"
     },
     {
       "outlet_slug": "breitbart",
       "outlet_name": "Breitbart",
-      "headline": "Muslim Socialist Zohran Mamdani Wins New York City Mayor Election",
-      "url": "https://www.breitbart.com/politics/2025/11/04/muslim-socialist-zohran-mamdani-wins-new-york-city-mayor-election/amp/",
+      "headline": "Senate Passes Funding Bill to End Schumer Shutdown",
+      "url": "https://www.breitbart.com/politics/2025/11/10/senate-passes-funding-bill-end-schumer-shutdown/",
       "bias": { "composite": 6.0 },
       "match_type": "exact"
     }
