@@ -1,0 +1,214 @@
+{
+  "date": "2025-11-10",
+  "event": { "canonical_headline": "Senate approves government funding bill to end government shutdown" },
+  "outlets": [
+    {
+      "outlet_slug": "huffingtonpost",
+      "outlet_name": "The Huffington Post",
+      "headline": "Senate Approves Bill To Reopen Federal Government",
+      "url": "https://www.huffpost.com/entry/government-shutdown-deal-senate_n_69125abbe4b0b840aac16e69",
+      "bias": { "composite": -4.3 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "msnbc",
+      "outlet_name": "MSNBC",
+      "headline": "Senate passes a government funding bill as shutdown nears its likely end",
+      "url": "https://www.msnbc.com/msnbc/news/senate-passes-funding-bill-shutdown-end-rcna243135",
+      "bias": { "composite": -3.71 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "guardianus",
+      "outlet_name": "The Guardian US",
+      "headline": "Senate approves funding deal to end longest US government shutdown",
+      "url": "https://www.theguardian.com/us-news/2025/nov/10/senate-approves-funding-package-government-shutdown",
+      "bias": { "composite": -3.50 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "ap",
+      "outlet_name": "Associated Press",
+      "headline": "Bill to end government shutdown passes the Senate, heads to the House next for final vote",
+      "url": "https://apnews.com/live/donald-trump-news-updates-11-10-2025",
+      "bias": { "composite": -3.02 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "bloomberg",
+      "outlet_name": "Bloomberg",
+      "headline": "US Shutdown Nears End as Senate Passes Deal, House Readies Vote",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-11/us-shutdown-nears-end-as-senate-passes-deal-house-still-to-act?srnd=homepage-americas",
+      "bias": { "composite": -2.40 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nyt",
+      "outlet_name": "The New York Times News",
+      "headline": "Senate Passes Deal to Reopen Government",
+      "url": "https://www.nytimes.com/live/2025/11/10/us/trump-government-shutdown-news",
+      "bias": { "composite": -2.20 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "usatoday",
+      "outlet_name": "USA Today",
+      "headline": "...Senate passes deal to end funding fight",
+      "url": "https://www.usatoday.com/story/news/politics/2025/11/10/shutdown-day-41-live-updates-snap-travel/87104864007/",
+      "bias": { "composite": -2.00 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "washpost",
+      "outlet_name": "The Washington Post",
+      "headline": "Deal to end government shutdown passes Senate, heads to House",
+      "url": "https://www.washingtonpost.com/business/2025/11/10/government-shutdown-senate-bill/",
+      "bias": { "composite": -1.63 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "cbsnews",
+      "outlet_name": "CBS News",
+      "headline": "Government shutdown end in sight as Senate approves funding package, sending it to House",
+      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-senate-deal-day-41/",
+      "bias": { "composite": -1.50 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "abcnews",
+      "outlet_name": "ABC News",
+      "headline": "Government shutdown updates: Senate passes government funding bill",
+      "url": "https://abcnews.go.com/Politics/live-updates/government-shutdown-updates/?id=127369640",
+      "bias": { "composite": -1.42 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "cnn",
+      "outlet_name": "CNN",
+      "headline": "Senate votes to end government shutdown, sending funding bill to the House",
+      "url": "https://www.cnn.com/2025/11/10/politics/senate-vote-government-shutdown-funding",
+      "bias": { "composite": -1.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nbcnews",
+      "outlet_name": "NBC News",
+      "headline": "Senate passes bill to reopen the government as 8 Democrats join with Republicans to send it to the House",
+      "url": "https://www.nbcnews.com/politics/congress/senate-passes-bill-reopen-government-sends-to-house-rcna243120",
+      "bias": { "composite": -1.22 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "politico",
+      "outlet_name": "Politico",
+      "headline": "Senate passes shutdown-ending deal",
+      "url": "https://www.politico.com/news/2025/11/10/senate-passes-shutdown-ending-deal-00646020",
+      "bias": { "composite": -1.20 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "reuters",
+      "outlet_name": "Reuters",
+      "headline": "US Senate passes bill to end government shutdown, sends to House",
+      "url": "https://www.reuters.com/world/us/us-senate-compromise-sets-stage-end-government-shutdown-2025-11-10/",
+      "bias": { "composite": -0.85 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "bbcnews",
+      "outlet_name": "BBC News",
+      "headline": "US Senate passes funding bill as historic shutdown nears likely end",
+      "url": "https://www.bbc.com/news/articles/cj41pgpk0wgo",
+      "bias": { "composite": -0.80 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "forbes",
+      "outlet_name": "Forbes",
+      "headline": "Senate Passes Bill To Reopen Government",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/11/10/senate-passes-bill-to-reopen-government/",
+      "bias": { "composite": -0.50 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "newsweek",
+      "outlet_name": "Newsweek",
+      "headline": "Senate Passes Bill to Fund Government to End of January",
+      "url": "https://www.newsweek.com/government-shutdown-vote-opening-aca-johnson-live-updates-11025369",
+      "bias": { "composite": -0.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "christiansciencemonitor",
+      "outlet_name": "Christian Science Monitor",
+      "headline": "Democrats’ unity cracks as Senate agrees to end shutdown. Next the House votes.",
+      "url": "https://www.csmonitor.com/USA/Politics/2025/1110/shutdown-democrats-senate-house",
+      "bias": { "composite": -0.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "wsj",
+      "outlet_name": "Wall Street Journal (News)",
+      "headline": "Senate Passes Measure to End Government Shutdown",
+      "url": "https://www.wsj.com/politics/policy/senate-passes-measure-to-end-government-shutdown-ea7168b8?mod=hp_lead_pos1",
+      "bias": { "composite": 0.33 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "washingtonexaminer",
+      "outlet_name": "The Washington Examiner",
+      "headline": "Senate passes bill to end government shutdown, heads to House for final passage",
+      "url": "https://www.washingtonexaminer.com/news/senate/3881941/end-government-shutdown-closer-bill-clears-senate-heads-house/",
+      "bias": { "composite": 2.30 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nationalreview",
+      "outlet_name": "The National Review",
+      "headline": "Senate Passes Bill to End Longest Government Shutdown in History",
+      "url": "https://www.nationalreview.com/news/senate-passes-bill-to-end-longest-government-shutdown-in-history/",
+      "bias": { "composite": 2.50 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "nypost",
+      "outlet_name": "New York Post",
+      "headline": "Senate passes revised government funding bill, sends it back to the House",
+      "url": "https://nypost.com/2025/11/10/us-news/senate-passes-revised-government-funding-bill-sends-it-back-to-the-house/",
+      "bias": { "composite": 2.93 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "newsmax",
+      "outlet_name": "Newsmax",
+      "headline": "Senate Votes to End Nation's Longest Govt Shutdown",
+      "url": "https://www.newsmax.com/us/government-shutdown-senate-vote/2025/11/10/id/1234013/",
+      "bias": { "composite": 3.05 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "oneamericanews",
+      "outlet_name": "One America News",
+      "headline": "Senate votes 60‑40 to end historic shutdown, bill moves to House",
+      "url": "https://www.oann.com/newsroom/senate-votes-60%e2%80%9140-to-end-historic-shutdown-bill-moves-to-house/",
+      "bias": { "composite": 3.13 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "foxnews",
+      "outlet_name": "Fox News",
+      "headline": "Senate ends 41-day government shutdown stalemate, sends bipartisan deal to House",
+      "url": "https://www.foxnews.com/politics/senate-ends-41-day-government-shutdown-stalemate-sends-bipartisan-deal-house",
+      "bias": { "composite": 3.27 },
+      "match_type": "exact"
+    },
+    {
+      "outlet_slug": "breitbart",
+      "outlet_name": "Breitbart",
+      "headline": "Senate Passes Funding Bill to End Schumer Shutdown",
+      "url": "https://www.breitbart.com/politics/2025/11/10/senate-passes-funding-bill-end-schumer-shutdown/",
+      "bias": { "composite": 6.0 },
+      "match_type": "exact"
+    }
+  ]
+}
